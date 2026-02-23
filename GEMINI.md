@@ -1,7 +1,7 @@
-# GEMINI.md — AG_Consultas Project Profile
+# GEMINI.md — G_Consultas Project Profile
 
 ## Identidad del Proyecto
-**Nombre**: AG_Consultas  
+**Nombre**: G_Consultas  
 **Tipo**: Sistema de Mapeo y Consultas SQL para TrakCare/ALMA  
 **Base de Datos**: InterSystems IRIS (LIVE-CLOV)  
 **Propósito**: Mapear estructura de BD hospitalaria y construir consultas SQL seguras
@@ -18,7 +18,7 @@ Este proyecto contiene un **sistema integral de mapeo y construcción de consult
 
 ## Estructura del Proyecto
 ```
-AG_Consultas/
+G_Consultas/
 ├── .env                        # 🔒 Variables de entorno (gitignored)
 ├── .env.example                # Template de credenciales
 ├── Diccionario_Datos/          # 📊 Diccionario completo (SQLite + MD)
