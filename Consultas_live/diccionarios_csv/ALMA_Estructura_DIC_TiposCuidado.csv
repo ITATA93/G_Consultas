@@ -1,0 +1,45 @@
+ID,Codigo,Descripcion
+1,P16,Rehabilitación NNA
+2,P04,Sala Mixta
+3,P05,Sala Rehabilitación Física RBC
+4,P06,Otros espacios del Establecimiento
+5,CLXXDES,Desafiliar SS
+6,CLXXUPN,UAPORRINO
+7,P01,Espacios Amigables / Adolecentes
+8,CLXXEST01,Establecimiento Educacional
+9,TCEEXTRA,Extramural
+10,P12,Intra-Pabellón
+11,P07,Sala Rehabilitación Física RI
+12,CLXXHD,Hospitalización Domiciliaria
+13,P08,Sala Rehabilitación Física RR
+14,016,Interim Care Program - Nursing Home Type
+15,015,Interim Care Program
+16,001,NHT/Non-Acute
+17,002,Designated Rehabilitation Program/Unit: Level 1
+18,006,Designated Rehabilitation Program/Unit: Level 2
+19,007,Designated Rehabilitation Program/Unit: Level 3
+20,017,Designated Rehabilitation Program/Unit: Home-based substitution
+21,018,Non-Designated Rehabilitation Program/Unit
+22,008,Palliative Care Program
+23,010,Mental Health Secure Extended Care Unit (SECU)
+24,014,Mental Health Nursing Home Type
+25,012,Child and Adolescent Mental Health Service (CAMHS)
+26,011,"Acute, Aged Persons Mental Health Service (APMH)"
+27,013,"Acute, Specialist Mental Health Service"
+28,005,"Acute, Adult Mental Health Service"
+29,009,Geriatric Evaluation and Management Program
+30,00,Alcohol and Drug Program
+31,004,Other care (Acute) including Qualified newborn
+32,019,Unqualified newborn
+33,CLXXANGIO,Angiografía
+34,P13,Recuperación
+35,CLXXEST02,Otros lugares fuera del establecimiento de salud
+36,TCEURG01,Urgencia Adulto
+37,P09,Atención Funcionarios
+38,TCEURG02,Urgencia Infantil
+39,TCEURG03,Urgencia Ginecobstetra
+40,P10,Atencion PRAIS
+41,TCEURG04,Urgencia Indiferenciada
+42,P11,Sala UAPO
+43,P02,Sala IRA
+44,P03,Sala ERA

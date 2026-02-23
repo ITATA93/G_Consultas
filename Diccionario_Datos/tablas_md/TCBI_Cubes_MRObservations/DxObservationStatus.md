@@ -1,0 +1,20 @@
+# TCBI_Cubes_MRObservations.DxObservationStatus
+
+**Schema:** TCBI_Cubes_MRObservations
+**Columnas:** 2
+**Actualizado:** 2026-01-30 15:29:54
+
+## Utilidad
+
+Tabla del sistema TrakCare. Estados posibles.
+
+## Columnas
+
+| Columna | Tipo | PK | FK | Nullable | Descripcion |
+|---------|------|----|----|----------|-------------|
+| ID | bigint | PK |  | NO | - |
+| DxObservationStatus | varchar |  |  | NO | Dimension property: DxObservationStatus<br/>
+Sour... |
+
+---
+*Generado: 2026-01-30 16:46 | Diccionario v1.0.0 | Sync: 2026-01-30 15:32:03*

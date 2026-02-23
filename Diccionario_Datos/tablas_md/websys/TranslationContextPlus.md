@@ -1,0 +1,24 @@
+# websys.TranslationContextPlus
+
+**Schema:** websys
+**Columnas:** 7
+**Actualizado:** 2026-01-30 15:29:54
+
+## Utilidad
+
+**Componente Web**. Interfaz de usuario del sistema TrakCare.
+
+## Columnas
+
+| Columna | Tipo | PK | FK | Nullable | Descripcion |
+|---------|------|----|----|----------|-------------|
+| ID | varchar | PK |  | NO | - |
+| ComponentContext | varchar |  |  | NO | - |
+| ContextRefClass | varchar |  |  | SI | Class name of context object if exists |
+| ContextRefId | varchar |  |  | SI | ID of context object |
+| ContextRefOID | varchar |  |  | SI | OID of context object if exists |
+| ObjectReferenceId | varchar |  |  | NO | - |
+| ObjectType | varchar |  |  | NO | - |
+
+---
+*Generado: 2026-01-30 16:46 | Diccionario v1.0.0 | Sync: 2026-01-30 15:32:03*

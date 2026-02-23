@@ -1,0 +1,19 @@
+# TCBI_Cubes_PAComplaints.StarCMCDescViaPACMCategoryDR
+
+**Schema:** TCBI_Cubes_PAComplaints
+**Columnas:** 2
+**Actualizado:** 2026-01-30 15:29:54
+
+## Utilidad
+
+**TrakCare BI Cube**. Cubo OLAP para análisis de datos clínicos y operacionales.
+
+## Columnas
+
+| Columna | Tipo | PK | FK | Nullable | Descripcion |
+|---------|------|----|----|----------|-------------|
+| ID | bigint | PK |  | NO | - |
+| DxCMCDescViaPACMCategoryDR | varchar |  | FK | NO | Dimension property: DxCMCDescViaPACMCategoryDR<br/... |
+
+---
+*Generado: 2026-01-30 16:46 | Diccionario v1.0.0 | Sync: 2026-01-30 15:32:03*

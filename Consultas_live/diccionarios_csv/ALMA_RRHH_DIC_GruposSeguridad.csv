@@ -1,0 +1,433 @@
+ID,Descripcion,FechaExtraccion
+1,CLXX Administrador APS,2026-01-31 18:05:36.060000
+2,CLXX Consulta Registro Paciente,2026-01-31 18:05:36.067000
+3,CLXX Admision Ambulatoria,2026-01-31 18:05:36.070000
+4,CLXX Médico APS,2026-01-31 18:05:36.070000
+5,CLXX Anestesiólogo,2026-01-31 18:05:36.073000
+6,CLXX Kinesiólogo APS,2026-01-31 18:05:36.077000
+7,CLXX Enfermería Urgencia/Revertir Alta ESI,2026-01-31 18:05:36.077000
+8,CLXX Técnico Rehabilitación y Drogas Hospitalizado SM UHCE,2026-01-31 18:05:36.080000
+9,CLXX Terapeuta Ocupacional Ambulatorio,2026-01-31 18:05:36.083000
+10,CLXX.EM.Enfermería Urgencia,2026-01-31 18:05:36.083000
+11,CLXX Profesional Clínico Urgencia,2026-01-31 18:05:36.090000
+12,CLXX.EM.TP Urgencia G-O,2026-01-31 18:05:36.090000
+13,CLXX Médico ACN,2026-01-31 18:05:36.093000
+14,CLXX Soporte,2026-01-31 18:05:36.093000
+15,CLXX.OP.Médico Especialidades Ambulatorio Tele-Medicina,2026-01-31 18:05:36.100000
+16,CLXX Otorrinolaringología,2026-01-31 18:05:36.100000
+17,CLXX Salud Mental,2026-01-31 18:05:36.103000
+18,CLXX Fonoaudiología,2026-01-31 18:05:36.107000
+19,CLXX.EM.Médico Urgencia ESI,2026-01-31 18:05:36.107000
+20,CLXX.APS.Educador de Párvulos,2026-01-31 18:05:36.110000
+21,CLXX Médico Laboratorio,2026-01-31 18:05:36.110000
+22,CLXX.OT.Gestor Agendamiento Quirúrgico,2026-01-31 18:05:36.113000
+23,CLXX.EM.TP Dental Urgencia,2026-01-31 18:05:36.117000
+24,CLXX TP Vacunatorio APS,2026-01-31 18:05:36.117000
+25,CLXX Contralor Fármacos,2026-01-31 18:05:36.120000
+26,CLXX.APS.Profesor de Educación Física,2026-01-31 18:05:36.120000
+27,CLXX Cardiología,2026-01-31 18:05:36.123000
+28,CLXX Mantenedor de Agenda,2026-01-31 18:05:36.127000
+29,CLXX.OP.Director,2026-01-31 18:05:36.137000
+30,CLXX.PH.Químico Farmacéutico Clínico,2026-01-31 18:05:36.140000
+31,CLXX Matrona APS ,2026-01-31 18:05:36.147000
+32,(old)CLXX.OT.TP Pabellón/Recuperación,2026-01-31 18:05:36.150000
+33,CLXX GES Administrativo,2026-01-31 18:05:36.153000
+34,CLXX Admision Ambulatoria APS,2026-01-31 18:05:36.157000
+35,CLXX Quimico Farmaceutico APS,2026-01-31 18:05:36.157000
+36,CLXX TP Dental APS,2026-01-31 18:05:36.160000
+37,CLXX.EM.Médico Urgencia G-O ESI,2026-01-31 18:05:36.167000
+38,CLXX Salud Mental Hospitalización,2026-01-31 18:05:36.167000
+39,CLXX Obstetricia/Ginecología,2026-01-31 18:05:36.170000
+40,CLXX Terapeuta Ocupacional Hospitalizado SM UHCE,2026-01-31 18:05:36.170000
+41,CLXX.EM.Enfermería Urgencia/Revertir Alta,2026-01-31 18:05:36.173000
+42,CLXX Control Visitas,2026-01-31 18:05:36.173000
+43,CLXX Administrador Archivo,2026-01-31 18:05:36.177000
+44,CLXX Tecnólogo Médico Ambulatorio,2026-01-31 18:05:36.180000
+45,CLXX Analizador de Datos,2026-01-31 18:05:36.183000
+46,CLXX.IP.TP Hospitalizado G-O,2026-01-31 18:05:36.190000
+47,CLXX.IP.Médico Hospitalizado SM,2026-01-31 18:05:36.193000
+48,CLXX Médico Interconsultor,2026-01-31 18:05:36.197000
+49,CLXX.OP.Enfermería Especialidades Ambulatorio,2026-01-31 18:05:36.200000
+50,CLXX Kinesiología,2026-01-31 18:05:36.203000
+51,CLXX Jefe de Laboratorio,2026-01-31 18:05:36.203000
+52,CLXX Administrador Imagenología,2026-01-31 18:05:36.207000
+53,CLXX.LB.Medicina Transfusional (Bco.Sangre),2026-01-31 18:05:36.210000
+54,CLXX.IP.Enfermería Hospitalizado,2026-01-31 18:05:36.210000
+55,CLXX Asistente Social,2026-01-31 18:05:36.213000
+56,CLXX.OT.TP Anestesia Servicios Quirúrgicos,2026-01-31 18:05:36.217000
+57,CLXX Cirugía,2026-01-31 18:05:36.217000
+58,CLXX Psiquiatría Ambulatorio SM,2026-01-31 18:05:36.220000
+59,CLXX.EM.TP Urgencia ESI,2026-01-31 18:05:36.220000
+60,CLXX Enfermería Urgencia ,2026-01-31 18:05:36.223000
+61,CLXX Gastroenterología,2026-01-31 18:05:36.223000
+62,CLXX.OP.Médico Especialidades Ambulatorio SM,2026-01-31 18:05:36.227000
+63,CLXX Sección Unidad de Traslado de Paciente,2026-01-31 18:05:36.230000
+64,CLXX Cuenta Paciente,2026-01-31 18:05:36.230000
+65,CLXX Digitador de Urgencia,2026-01-31 18:05:36.233000
+66,CLXX Bioquímico de Laboratorio,2026-01-31 18:05:36.237000
+67,CLXX Fallecimiento de Paciente,2026-01-31 18:05:36.240000
+68,CLXX Archivo,2026-01-31 18:05:36.240000
+69,CLXX.IP.Profesionales Clínicos Hospitalizado,2026-01-31 18:05:36.240000
+70,CLXX.PH.Químico Farmaceutico,2026-01-31 18:05:36.243000
+71,CLXX Administrador Medicina Nuclear,2026-01-31 18:05:36.247000
+72,CLXX Atención al Cliente,2026-01-31 18:05:36.247000
+73,CLXX.EM.TP Dental Urgencia ESI,2026-01-31 18:05:36.253000
+74,CLXX Unidad Destino FC,2026-01-31 18:05:36.257000
+75,CLXX Dermatología,2026-01-31 18:05:36.257000
+76,CLXX Psicología APS,2026-01-31 18:05:36.260000
+77,CLXX Kinesiología Urgencia,2026-01-31 18:05:36.260000
+78,CLXX TP Ambulatorio,2026-01-31 18:05:36.263000
+79,CLXX TP Hospitalización SM UHCE,2026-01-31 18:05:36.267000
+80,CLXX Médico Espec. Salud Mental Amb.,2026-01-31 18:05:36.267000
+81,CLXX Admision de Urgencia + Revertir Alta,2026-01-31 18:05:36.270000
+82,CLXX Cirugía CDT,2026-01-31 18:05:36.270000
+83,CLXX Auxiliar Imagenología,2026-01-31 18:05:36.273000
+84,CLXX Autorización Medicamentos Controlados y Restringidos,2026-01-31 18:05:36.277000
+85,CLXX Transcripción Recetas,2026-01-31 18:05:36.277000
+86,CLXX.EM.TP Urgencia G-O ESI,2026-01-31 18:05:36.280000
+87,CLXX Matrona de Urgencia ESI,2026-01-31 18:05:36.290000
+88,CLXX.OT.Tecnólogo Médico Serv.Quirúrgicos,2026-01-31 18:05:36.293000
+89,CLXX.LB.AP.Patólogo Anatomía Patológica,2026-01-31 18:05:36.297000
+90,CLXX.OP.Enfermería Especialidades Ambulatorio Oncología ,2026-01-31 18:05:36.300000
+91,CLXX Derivación a Servicios de Urgencia,2026-01-31 18:05:36.303000
+92,CLXX Cirugía Infantil,2026-01-31 18:05:36.307000
+93,CLXX Gestión Camas,2026-01-31 18:05:36.310000
+94,CLXX Administrador de Tablas Nv. 1,2026-01-31 18:05:36.310000
+95,CLXX.PH.Técnico Farmaceutico,2026-01-31 18:05:36.313000
+96,CLXX Nutricionista Ambulatorio,2026-01-31 18:05:36.317000
+97,CLXX Dispensacion Bodega/Botiquin ambulatorio,2026-01-31 18:05:36.320000
+98,CLXX Mantenedor de Agenda APS,2026-01-31 18:05:36.320000
+99,CLXX Encargado de Medicamentos Controlados,2026-01-31 18:05:36.323000
+100,CLXX.LB.AP.Patólogo Jefe Anatomía Patológica,2026-01-31 18:05:36.323000
+101,CLXX Stock,2026-01-31 18:05:36.327000
+102,CLXX.APS.Técnico Rehabilitación Alcohol y Drogas,2026-01-31 18:05:36.327000
+103,CLXX.IP.Matrona Hospitalización Domiciliaria,2026-01-31 18:05:36.330000
+104,CLXX Médico Hospitalización Neurocirugía,2026-01-31 18:05:36.333000
+105,CLXX Médico Hospitalización GO,2026-01-31 18:05:36.337000
+106,CLXX Terapia Ocupacional APS,2026-01-31 18:05:36.340000
+107,CLXX Enfermería Urgencia APS,2026-01-31 18:05:36.340000
+108,CLXX.OP.Profesional Clínico Ambulatorio SM,2026-01-31 18:05:36.343000
+109,CLXX Auxiliar Medicina Nuclear,2026-01-31 18:05:36.343000
+110,CLXX Profesional Clínico AMB,2026-01-31 18:05:36.347000
+111,CLXX.APS.Kinesiólogo,2026-01-31 18:05:36.347000
+112,CLXX Técnico en Rehabilitación de Alcohol y Drogas Ambulatorio,2026-01-31 18:05:36.350000
+113,CLXX Médico Maternidad,2026-01-31 18:05:36.350000
+114,CLXX Pediatría,2026-01-31 18:05:36.353000
+115,CLXX Admisión de Urgencia APS,2026-01-31 18:05:36.357000
+116,CLXX Cirujano CDT agendamiento,2026-01-31 18:05:36.357000
+117,CLXX Endocrinología,2026-01-31 18:05:36.360000
+118,CLXX.EM.Profesional Clínico Urgencia ESI,2026-01-31 18:05:36.360000
+119,CLXX.IP.Profesionales Clínicos Hospitalización Domiciliaria,2026-01-31 18:05:36.360000
+120,CLXX Admisión - Digitación Medicina Nuclear,2026-01-31 18:05:36.367000
+121,CLXX.OT.Médico Anestesiólogo Serv. Quirúrgicos,2026-01-31 18:05:36.370000
+122,CLXX.IP.Médico Cuidados Críticos Neo,2026-01-31 18:05:36.373000
+123,CLXX Nutricionista Hospitalizado,2026-01-31 18:05:36.377000
+124,CLXX Médico Neonatólogo,2026-01-31 18:05:36.377000
+125,CLXX Admisión Hospitalizado,2026-01-31 18:05:36.383000
+126,CLXX. Medicina Transfusional (Banco de Sangre),2026-01-31 18:05:36.383000
+127,CLXX.OT.Perfusionista,2026-01-31 18:05:36.387000
+128,CLXX.IP.Médico Cuidados Críticos,2026-01-31 18:05:36.387000
+129,CLXX Digitador Administrativo,2026-01-31 18:05:36.390000
+130,CLXX Analytics Internal,2026-01-31 18:05:36.393000
+131,CLXX Quimico Farmaceutico Central,2026-01-31 18:05:36.397000
+132,CLXX Encargado Bodega/Botiquin ambulatorio,2026-01-31 18:05:36.400000
+133,CLXX Recepción FC,2026-01-31 18:05:36.400000
+134,CLXX Control Auditoría,2026-01-31 18:05:36.403000
+135,CLXX Enfermería Hospitalizado Crítico,2026-01-31 18:05:36.410000
+136,CLXX Cirujano ,2026-01-31 18:05:36.413000
+137,CLXX Técnico Paramédico Imaginología,2026-01-31 18:05:36.417000
+138,CLXX Fonoaudiólogo Ambulatorio,2026-01-31 18:05:36.420000
+139,CLXX TP Urgencia ESI,2026-01-31 18:05:36.420000
+140,CLXX.IP.TP Hospitalizado,2026-01-31 18:05:36.423000
+141,CLXX Diccionario de Datos,2026-01-31 18:05:36.427000
+142,CLXX.OT. Gestor Agendamiento Hemodinamia,2026-01-31 18:05:36.430000
+143,CLXX.OP.TP Ambulatorio,2026-01-31 18:05:36.433000
+144,CLXX Inscripción de Paciente,2026-01-31 18:05:36.440000
+145,CLXX.APS.Administrador,2026-01-31 18:05:36.440000
+146,CLXX Pediatría UCIP,2026-01-31 18:05:36.443000
+147,CLXX.OT.TP Servicios Quirúrgicos,2026-01-31 18:05:36.460000
+148,CLXX Administrador Manual de Solicitudes,2026-01-31 18:05:36.460000
+149,CLXX TP Hospitalización SM,2026-01-31 18:05:36.463000
+150,CLXX.OT.Médico Hemodinamia,2026-01-31 18:05:36.470000
+151,CLXX.LB.AP.Tecnólogo Médico Anatomía Patológica,2026-01-31 18:05:36.470000
+152,CLXX Cajero,2026-01-31 18:05:36.473000
+153,CLXX Secretaria Pabellón,2026-01-31 18:05:36.477000
+154,CLXX Médico Hospitalización Pediatria,2026-01-31 18:05:36.480000
+155,CLXX.OT.Enfermera Hemodinamia,2026-01-31 18:05:36.480000
+156,CLXX Nefrología,2026-01-31 18:05:36.490000
+157,CLXX Cirujano Residente,2026-01-31 18:05:36.490000
+158,CLXX.APS.Matrona,2026-01-31 18:05:36.507000
+159,CLXX Programador de Agenda Pabellón,2026-01-31 18:05:36.510000
+160,CLXX.IP.Médico Hospitalización Domiciliaria,2026-01-31 18:05:36.513000
+161,CLXX Acceso RCE Global,2026-01-31 18:05:36.513000
+162,CLXX.IP.Odontología Hospitalizado,2026-01-31 18:05:36.517000
+163,CLXX Recepción Urgencias,2026-01-31 18:05:36.520000
+164,CLXX Mantenedor Agenda Pabellón,2026-01-31 18:05:36.523000
+165,CLXX Médico Especialidades ambulatorio,2026-01-31 18:05:36.527000
+166,CLXX Admisión de Urgencia,2026-01-31 18:05:36.530000
+167,CLXX Kinesiólogo Hospitalizado,2026-01-31 18:05:36.530000
+168,CLXX Profesor de Educación Física Hospitalizado SM,2026-01-31 18:05:36.537000
+169,CLXX Psicología,2026-01-31 18:05:36.540000
+170,CLXX Médico Hospitalización Cirugia,2026-01-31 18:05:36.543000
+171,CLXX Administrador de Pacientes,2026-01-31 18:05:36.543000
+172,CLXX Gestor de Herramientas,2026-01-31 18:05:36.550000
+173,CLXX Tecnólogo Médico Banco de Sangre,2026-01-31 18:05:36.553000
+174,CLXX.LB.AP.Recepción Anatomía Patológica,2026-01-31 18:05:36.557000
+175,CLXX Neonatología,2026-01-31 18:05:36.557000
+176,CLXX Trabajador Social Hospitalizado SM,2026-01-31 18:05:36.560000
+177,CLXX Codificador,2026-01-31 18:05:36.563000
+178,CLXX.OP.TP.Telemedicina,2026-01-31 18:05:36.567000
+179,CLXX Gestión de Interconsultas,2026-01-31 18:05:36.570000
+180,CLXX Gestión de Ordenes Entre Establecimientos,2026-01-31 18:05:36.570000
+181,CLXX TP Urgencia Maternidad ESI,2026-01-31 18:05:36.573000
+182,CLXX Psicopedagogía,2026-01-31 18:05:36.577000
+183,CLXX Trabajador Social Hospitalizado SM UHCE,2026-01-31 18:05:36.577000
+184,CLXX Psicología Ambulatorio SM ,2026-01-31 18:05:36.580000
+185,CLXX.IP.TP Hospitalizado SM,2026-01-31 18:05:36.583000
+186,CLXX Broncopulmonar,2026-01-31 18:05:36.583000
+187,CLXX Tecnólogo Médico Imagenología,2026-01-31 18:05:36.587000
+188,CLXX.APS.Tecnólogo Médico,2026-01-31 18:05:36.590000
+189,CLXX Neurocirugía,2026-01-31 18:05:36.590000
+190,CLXX TP APS,2026-01-31 18:05:36.593000
+191,CLXX Médico Ambulatorio Infectología,2026-01-31 18:05:36.593000
+192,CLXX.APS.Admisión Ambulatoria,2026-01-31 18:05:36.600000
+193,CLXX Técnico Rehabilitación y Drogas Hospitalizado SM,2026-01-31 18:05:36.603000
+194,CLXX Educador de Párvulos APS,2026-01-31 18:05:36.603000
+195,CLXX Psiquiatría Adultos,2026-01-31 18:05:36.607000
+196,CLXX Tecnólogo Médico Medicina Nuclear,2026-01-31 18:05:36.610000
+197,CLXX Médico Hospitalización SM,2026-01-31 18:05:36.613000
+198,CLXX Médico Hospitalización Ortopedia,2026-01-31 18:05:36.617000
+199,CLXX Administrador de Reglas,2026-01-31 18:05:36.620000
+200,CLXX PNAC/PACAM,2026-01-31 18:05:36.623000
+201,CLXX Asistente Social Hospitalizado,2026-01-31 18:05:36.623000
+202,CLXX Psiquiatría Infantil,2026-01-31 18:05:36.627000
+203,CLXX TP Hospitalizado Neonatologia ,2026-01-31 18:05:36.630000
+204,CLXX Asistente Social Ambulatorio SM ,2026-01-31 18:05:36.630000
+205,CLXX Neurología,2026-01-31 18:05:36.633000
+206,CLXX Profesional Clínico Urgencia ESI,2026-01-31 18:05:36.633000
+207,CLXX Recepción UMT,2026-01-31 18:05:36.637000
+208,CLXX Médico Hospitalización Critico,2026-01-31 18:05:36.640000
+209,CLXX OIRS,2026-01-31 18:05:36.640000
+210,CLXX Médico Ambulario Maternidad,2026-01-31 18:05:36.643000
+211,CLXX.OP.Médico Especialidades Ambulatorio,2026-01-31 18:05:36.647000
+212,CLXX Enfermería Hospitalizado SM,2026-01-31 18:05:36.650000
+213,CLXX Quimico Farmaceutico,2026-01-31 18:05:36.653000
+214,CLXX.APS.Nutricionista,2026-01-31 18:05:36.657000
+215,CLXX Médico Espec. Quirúrgicas Amb,2026-01-31 18:05:36.660000
+216,CLXX Médico Radiologo Imagenología,2026-01-31 18:05:36.663000
+217,CLXX Gestor Agendamiento Quirúrgico,2026-01-31 18:05:36.667000
+218,CLXX Médico Contralor,2026-01-31 18:05:36.670000
+219,CLXX Kinesiólogo Urgencia APS,2026-01-31 18:05:36.677000
+220,CLXX Terapia Ocupacional,2026-01-31 18:05:36.677000
+221,CLXX Enfermería Urgencia ESI,2026-01-31 18:05:36.680000
+222,CLXX.APS.Terapia Ocupacional,2026-01-31 18:05:36.683000
+223,CLXX Mapa de Piso,2026-01-31 18:05:36.683000
+224,CLXX.RD.Médico Radiólogo Imagenología,2026-01-31 18:05:36.687000
+225,CLXX Vacunatorio,2026-01-31 18:05:36.690000
+226,CLXX.OT.Médico Cirujano Serv. Quirúrgicos,2026-01-31 18:05:36.690000
+227,CLXX Médico Radiologo Medicina Nuclear,2026-01-31 18:05:36.690000
+228,CLXX.EM.Médico Urgencia,2026-01-31 18:05:36.693000
+229,CLXX Recepcion Laboratorio,2026-01-31 18:05:36.697000
+230,CLXX. Administrador Arancel,2026-01-31 18:05:36.697000
+231,CLXX Jefe Gestión Camas,2026-01-31 18:05:36.700000
+232,CLXX.OP.TP.Ambulatorio G-O,2026-01-31 18:05:36.700000
+233,CLXX.IP.TP Hospitalizado C.Críticos,2026-01-31 18:05:36.703000
+234,CLXX Gestor SIC Procedimientos Ambulatorios,2026-01-31 18:05:36.707000
+235,CLXX Cardiocirugía,2026-01-31 18:05:36.710000
+236,CLXX Médico Ambulatorio GO ,2026-01-31 18:05:36.710000
+237,CLXX Podólogo APS,2026-01-31 18:05:36.713000
+238,CLXX Médico Ambulatorio SM ,2026-01-31 18:05:36.717000
+239,CLXX Matrona Ambulatorio,2026-01-31 18:05:36.720000
+240,CLXX Médico Urgencia Adulto ESI 2,2026-01-31 18:05:36.720000
+241,CLXX Médico Hospitalización Salud Mental,2026-01-31 18:05:36.720000
+242,CLXX Médico Espec. Infanto-juvenil Amb,2026-01-31 18:05:36.723000
+243,CLXX.IP.Matrona Cuidados Críticos,2026-01-31 18:05:36.727000
+244,CLXX Enfermería Ambulatorio SM,2026-01-31 18:05:36.727000
+245,CLXX.IP.Enfermería Hospitalizado Oncología ,2026-01-31 18:05:36.730000
+246,CLXX.IP.Enfermería Cuidados Críticos,2026-01-31 18:05:36.737000
+247,CLXX Psicología Hospitalizado,2026-01-31 18:05:36.740000
+248,CLXX.APS.Médico,2026-01-31 18:05:36.743000
+249,CLXX Podólogo Ambulatorio,2026-01-31 18:05:36.747000
+250,CLXX.APS.Odontología,2026-01-31 18:05:36.747000
+251,CLXX Hematología,2026-01-31 18:05:36.750000
+252,CLXX Recepcionista Pabellón,2026-01-31 18:05:36.750000
+253,CLXX.IP.TP Dental Hospitalizado,2026-01-31 18:05:36.753000
+254,CLXX.RD.Tecnólogo Médico Imagenología,2026-01-31 18:05:36.757000
+255,CLXX Matrona de Urgencia,2026-01-31 18:05:36.757000
+256,CLXX.Administrador de Tablas Arsenal Farmacológico ,2026-01-31 18:05:36.760000
+257,CLXX.IP.Matrona Hospitalizado,2026-01-31 18:05:36.763000
+258,CLXX Médico Urgencia APS 2,2026-01-31 18:05:36.770000
+259,CLXX Médico Urgencia G-O ESI 2,2026-01-31 18:05:36.770000
+260,CLXX Administrador Convenios,2026-01-31 18:05:36.773000
+261,CLXX Psicología Hospitalizado SM UHCE,2026-01-31 18:05:36.777000
+262,CLXX.APS.TP,2026-01-31 18:05:36.777000
+263,CLXX.IP.Profesionales Clínicos Hospitalizado SM,2026-01-31 18:05:36.780000
+264,CLXX.OP.Matrona Ambulatorio,2026-01-31 18:05:36.780000
+265,CLXX Psicología Hospitalizado SM,2026-01-31 18:05:36.783000
+266,CLXX.IP.Médico Hospitalizado Obstétrica,2026-01-31 18:05:36.783000
+267,CLXX Historia Clínica Paciente,2026-01-31 18:05:36.787000
+268,CLXX Relaciones Publicas,2026-01-31 18:05:36.790000
+269,CLXX.IP.TP Hospitalización Domiciliaria,2026-01-31 18:05:36.790000
+270,CLXX Profesor de Educación Física APS,2026-01-31 18:05:36.793000
+271,CLXX Profesor de Educación Física Hospitalizado SM UHCE,2026-01-31 18:05:36.797000
+272,CLXX Odontología APS,2026-01-31 18:05:36.800000
+273,CLXX Odontología Urgencia APS 2,2026-01-31 18:05:36.800000
+274,CLXX Médico Urgencia Infantil ESI 2,2026-01-31 18:05:36.803000
+275,CLXX Psiquiatría Hospitalizado SM,2026-01-31 18:05:36.807000
+276,CLXX Jefe de Urgencia,2026-01-31 18:05:36.810000
+277,CLXX.PS.Entrega de Resultados,2026-01-31 18:05:36.813000
+278,CLXX Psicopedagoga y Arte Terapeuta Hospitalizado SM,2026-01-31 18:05:36.817000
+279,CLXX Tecnico Farmaceutico,2026-01-31 18:05:36.820000
+280,CLXX Médico Ambulatorio Infantil,2026-01-31 18:05:36.820000
+281,CLXX.APS.TP Dental,2026-01-31 18:05:36.823000
+282,CLXX.EM.Médico Urgencia G-O,2026-01-31 18:05:36.827000
+283,CLXX Mapa de Derivación,2026-01-31 18:05:36.830000
+284,CLXX TP Urgencia APS,2026-01-31 18:05:36.830000
+285,CLXX TP Hospitalización Adulto,2026-01-31 18:05:36.833000
+286,CLXX.OP.Profesional Clínico Ambulatorio ,2026-01-31 18:05:36.837000
+287,CLXX.APS.Gestión,2026-01-31 18:05:36.840000
+288,CLXX Kinesiólogo Ambulatorio,2026-01-31 18:05:36.840000
+289,CLXX.IP.Médico Hospitalizado G-O,2026-01-31 18:05:36.843000
+290,CLXX TP Urgencia,2026-01-31 18:05:36.847000
+291,CLXX Médico Urgencia G-O 2,2026-01-31 18:05:36.860000
+292,CLXX Terapeuta Ocupacional Hospitalizado,2026-01-31 18:05:36.860000
+293,CLXX Psiquiatría Hospitalizado SM UHCE,2026-01-31 18:05:36.863000
+294,CLXX Orden Telefónica Enfermería,2026-01-31 18:05:36.867000
+295,CLXX Admisión de Urgencia - Tipo III,2026-01-31 18:05:36.870000
+296,CLXX.LB.Jefe de Laboratorio,2026-01-31 18:05:36.873000
+297,CLXX IIH,2026-01-31 18:05:36.873000
+298,CLXX.EM.Matrona Urgencia ESI,2026-01-31 18:05:36.877000
+299,CLXX.EM.Médico Urgencia Pediátrica,2026-01-31 18:05:36.880000
+300,CLXX Técnico Rehabilitación Alcohol y Drogas APS,2026-01-31 18:05:36.880000
+301,CLXX Tecnólogo Médico APS,2026-01-31 18:05:36.883000
+302,CLXX Admisión Ambulatoria II,2026-01-31 18:05:36.887000
+303,CLXX Asistente Social Ambulatorio,2026-01-31 18:05:36.887000
+304,CLXX Técnico Rehabilitación y Drogas Ambulatorio SM ,2026-01-31 18:05:36.890000
+305,CLXX Matrona Hosp,2026-01-31 18:05:36.890000
+306,CLXX Nutricionista APS,2026-01-31 18:05:36.893000
+307,CLXX Enfermería Ambulatorio Infectología,2026-01-31 18:05:36.897000
+308,CLXX Estadistica,2026-01-31 18:05:36.897000
+309,CLXX Enfermería Urgencia Manchester,2026-01-31 18:05:36.900000
+310,CLXX Infectología,2026-01-31 18:05:36.903000
+311,CLXX Traumatología,2026-01-31 18:05:36.903000
+312,CLXX Nutricionista Hospitalizado SM,2026-01-31 18:05:36.910000
+313,CLXX Tecnólogo Médico Hospitalizado,2026-01-31 18:05:36.913000
+314,CLXX Máxilo-Facial,2026-01-31 18:05:36.917000
+315,CLXX Administrador de Tablas Nv. 3,2026-01-31 18:05:36.920000
+316,CLXX Enfermería Hospitalizado Pediatría,2026-01-31 18:05:36.923000
+317,CLXX.EM.Matrona Urgencia,2026-01-31 18:05:36.923000
+318,CLXX.IP.Enfermería Hospitalización Domiciliaria,2026-01-31 18:05:36.927000
+319,CLXX.EM.Enfermería Urgencia ESI,2026-01-31 18:05:36.930000
+320,CLXX.OT.Enf/Mat Serv. Quirúrgicos,2026-01-31 18:05:36.930000
+321,CLXX Reumatología,2026-01-31 18:05:36.933000
+322,CLXX Traumatología Infantil,2026-01-31 18:05:36.937000
+323,CLXX.OP.Interno Medicina Ambulatoria ,2026-01-31 18:05:36.937000
+324,CLXX Técnico Anestesia,2026-01-31 18:05:36.940000
+325,CLXX.OP.TP Dental Ambulatorio,2026-01-31 18:05:36.940000
+326,CLXX TP Hospitalización Pediatría,2026-01-31 18:05:36.943000
+327,CLXX Toma de Muestra,2026-01-31 18:05:36.943000
+328,CLXX Nutricionista Hospitalizado SM UHCE,2026-01-31 18:05:36.947000
+329,CLXX Gestión,2026-01-31 18:05:36.950000
+330,CLXX.PH.Gestor Local Receptor Indicaciones Pendientes,2026-01-31 18:05:36.953000
+331,CLXX.LB.Tecnólogo Médico Laboratorio,2026-01-31 18:05:36.957000
+332,CLXX Enfermería ERA,2026-01-31 18:05:36.960000
+333,CLXX Gestión de Documentos,2026-01-31 18:05:36.960000
+334,CLXX.APS.Mantenedor de Agenda,2026-01-31 18:05:36.973000
+335,CLXX Nutricionista Ambulatorio Primero,2026-01-31 18:05:36.977000
+336,CLXX Tecnólogo Médico Oftalmología AMB,2026-01-31 18:05:36.980000
+337,CLXX Enfermería APS,2026-01-31 18:05:36.980000
+338,CLXX Inmunología,2026-01-31 18:05:36.983000
+339,CLXX Admisión Imagenología,2026-01-31 18:05:36.987000
+340,CLXX.EM.Odontología Urgencia,2026-01-31 18:05:36.987000
+341,CLXX Enfermería Hospitalizado Adulto,2026-01-31 18:05:36.990000
+342,CLXX Administrador de Tablas Nv. 2,2026-01-31 18:05:36.990000
+343,CLXX Fonoaudiólogo Hospitalizado,2026-01-31 18:05:36.993000
+344,CLXX Administrador Stock,2026-01-31 18:05:36.993000
+345,CLXX Enf/Mat Hospitalizado Neonatología,2026-01-31 18:05:36.997000
+346,CLXX TP Ambulatorio Infectología,2026-01-31 18:05:37.003000
+347,CLXX Secretaria Hospitalizado,2026-01-31 18:05:37.007000
+348,CLXX Odontología,2026-01-31 18:05:37.010000
+349,CLXX Médico Espec. Neuroquirúrgicas Amb,2026-01-31 18:05:37.013000
+350,CLXX.APS.Asistente Social,2026-01-31 18:05:37.017000
+351,CLXX Cirujano Vascular,2026-01-31 18:05:37.023000
+352,CLXX Gestión APS,2026-01-31 18:05:37.027000
+353,CLXX Psicología Ambulatorio,2026-01-31 18:05:37.030000
+354,CLXX Médico Ambulatorio,2026-01-31 18:05:37.033000
+355,CLXX.IP.Médico Hospitalizado,2026-01-31 18:05:37.037000
+356,CLXX.EM.Profesional Clínico Urgencia,2026-01-31 18:05:37.037000
+357,CLXX Enfermería Ambulatorio,2026-01-31 18:05:37.040000
+358,CLXX.OT.TP Hemodinamia,2026-01-31 18:05:37.043000
+359,CLXX Profesionales Clínicos Ambulatorio,2026-01-31 18:05:37.050000
+360,CLXX Odontología Urgencia,2026-01-31 18:05:37.053000
+361,CLXX Nutricionista Hospitalizados Primero,2026-01-31 18:05:37.053000
+362,CLXX Profesional Clínico AMB Infectología,2026-01-31 18:05:37.060000
+363,CLXX.IP.Médico Hospitalizado Ginecología,2026-01-31 18:05:37.060000
+364,CLXX GES Administrador,2026-01-31 18:05:37.063000
+365,CLXX Tecnólogo Médico Laboratorio,2026-01-31 18:05:37.067000
+366,CLXX Médico Urgencia Infantil 2,2026-01-31 18:05:37.067000
+367,CLXX.OP.Tecnólogo Médico Oftalmología Ambulatorio,2026-01-31 18:05:37.070000
+368,CLXX Médico Hospitalización Salud Mental UHCE,2026-01-31 18:05:37.073000
+369,CLXX Admisión Laboratorio,2026-01-31 18:05:37.077000
+370,CLXX Terapeuta Ocupacional Hospitalizado SM,2026-01-31 18:05:37.080000
+371,CLXX Médico Hospitalización Adulto,2026-01-31 18:05:37.080000
+372,CLXX Asistente Social APS,2026-01-31 18:05:37.083000
+373,CLXX Enfermería Hospitalizado SM UHCE,2026-01-31 18:05:37.087000
+374,CLXX.OP.Enfermería Especialidades Ambulatorio SM,2026-01-31 18:05:37.087000
+375,CLXX Gestor Cirugía Menor/Procedimientos APS,2026-01-31 18:05:37.097000
+376,CLXX TP Urgencia Maternidad,2026-01-31 18:05:37.103000
+377,CLXX Oftalmología,2026-01-31 18:05:37.110000
+378,CLXX TP Ambulatorio SM,2026-01-31 18:05:37.117000
+379,CLXX.EM.Enfermería Urgencia/Revertir Alta ESI,2026-01-31 18:05:37.120000
+380,CLXX.OP.Odontología Ambulatorio,2026-01-31 18:05:37.127000
+381,CLXX Urología,2026-01-31 18:05:37.130000
+382,CLXX Consulta Agenda Médica,2026-01-31 18:05:37.130000
+383,CLXX.APS.Podólogo,2026-01-31 18:05:37.133000
+384,CLXX.EM.Kinesiología Urgencia (No Usar),2026-01-31 18:05:37.133000
+385,CLXX Enfermería Especialidad AMB ,2026-01-31 18:05:37.137000
+386,CLXX Enf/Mat Pabellón/Recuperación,2026-01-31 18:05:37.140000
+387,CLXX.OP.TP Dental APS,2026-01-31 18:05:37.143000
+388,CLXX Fonoaudiólogo APS,2026-01-31 18:05:37.143000
+389,CLXX.APS.Enfermería,2026-01-31 18:05:37.150000
+390,CLXX.OP.Médico Especialidades Oncología (Escritorio Clínico),2026-01-31 18:05:37.157000
+391,CLXX Profesionales Clínicos Hospitalizado,2026-01-31 18:05:37.160000
+392,CLXX TP Ambulatorio GO,2026-01-31 18:05:37.160000
+393,CLXX.EM.Odontología Urgencia ESI,2026-01-31 18:05:37.163000
+394,CLXX Administrador Convenios (Solo Lectura),2026-01-31 18:05:37.167000
+395,CLXX Terapia Ocupacional Ambulatorio SM ,2026-01-31 18:05:37.170000
+396,CLXX Admisión Medicina Nuclear,2026-01-31 18:05:37.170000
+397,CLXX Consulta Hospitalizados,2026-01-31 18:05:37.173000
+398,CLXX TP Urgencia Dental APS,2026-01-31 18:05:37.177000
+399,CLXX Oncología Farmacia,2026-01-31 18:05:37.177000
+400,CLXX Médico UPC,2026-01-31 18:05:37.180000
+401,CLXX Enfermería Urgencia/Revertir Alta,2026-01-31 18:05:37.183000
+402,CLXX Administrador Banco de Sangre,2026-01-31 18:05:37.187000
+403,CLXX Jefe Admisión Hospitalaria,2026-01-31 18:05:37.197000
+404,CLXX.EM.TP Urgencia,2026-01-31 18:05:37.200000
+405,CLXX TP Hospitalizado Maternidad,2026-01-31 18:05:37.203000
+406,CLXX.OP.TP Ambulatorio SM,2026-01-31 18:05:37.210000
+407,CLXX Médico Urgencia Adulto 2,2026-01-31 18:05:37.217000
+408,CLXX.IP.Enfermería Hospitalizado SM,2026-01-31 18:05:37.220000
+409,CLXX Médico Hospitalización,2026-01-31 18:05:37.223000
+410,CLXX.APS.Psicología,2026-01-31 18:05:37.230000
+411,CLXX TP Pabellón/Recuperación,2026-01-31 18:05:37.233000
+412,Trak Site Super User,2026-01-31 18:05:37.233000
+413,CLXX.OP.UNIDAD PROCEDIMIENTOS AMBULATORIOS,2026-01-31 18:05:37.237000
+414,CLXX.EM.Estudiante,2026-01-31 18:05:37.250000
+415,CLXX.OP. Estudiante Clínico ,2026-01-31 18:05:37.257000
+416,CLXX Ejecutor Consultas - Cliente,2026-01-31 18:05:37.257000
+417,CLXX.OP.Becado Especialidades Ambulatorio,2026-01-31 18:05:37.260000
+418,CLXX.IP.Becado Especialidades Hospitalizado,2026-01-31 18:05:37.263000
+419,CLXX.IP.Estudiante Clínico,2026-01-31 18:05:37.267000
+420,CLXX.IP.Interno Medicina Hospitalizado,2026-01-31 18:05:37.267000
+421,CLXX Gestión de Presupuestos,2026-01-31 18:05:37.270000
+422,CLXX.APS.Fonoaudiólogo,2026-01-31 18:05:37.270000
+423,CLXX.EM.Odontología Urgencia APS,2026-01-31 18:05:37.273000
+424,CLXX.EM.Enfermería Urgencia APS,2026-01-31 18:05:37.277000
+425,CLXX.EM.Médico Urgencia APS ,2026-01-31 18:05:37.280000
+426,CLXX.APS.Quimico Farmaceutico,2026-01-31 18:05:37.280000
+427,CLXX.EM.TP Urgencia APS,2026-01-31 18:05:37.283000
+428,CLXX.EM.TP Dental Urgencia APS,2026-01-31 18:05:37.287000
+429,CLXX.EM.Kinesiólogo Urgencia APS,2026-01-31 18:05:37.293000
+430,CLXX.IP.Estación de Preparación,2026-01-31 18:05:37.303000
+431,CLXX.OP.Enfermería Evaluación Pre-quirúrgica,2026-01-31 18:05:37.307000
+432,CLXX Gestión de Reclamos,2026-01-31 18:05:37.307000

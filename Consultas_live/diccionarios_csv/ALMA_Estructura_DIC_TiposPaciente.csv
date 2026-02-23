@@ -1,0 +1,6 @@
+ID,Codigo,Descripcion
+1,ID,Identificable
+2,PN,No Identificable
+3,SD,Sin N° de Documento
+4,RN,Recien Nacido
+5,OI,Otro documento de Identificación

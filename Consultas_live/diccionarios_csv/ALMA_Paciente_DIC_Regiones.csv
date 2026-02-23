@@ -1,0 +1,16 @@
+ID,Codigo,Descripcion,PaisID
+1,3,III Región de Atacama,41
+2,2,II Región de Antofagasta,41
+3,1,I Región de Tarapaca,41
+4,4,IV Región de Coquimbo,41
+5,9,IX Región de la Araucania,41
+6,8,VIII Región del Bío Bío,41
+7,7,VII Región del Maule,41
+8,6,VI Región del Libertador General Bernardo O´Higgins,41
+9,5,V Región de Valparaiso,41
+10,13,XIII Región Metropolitana,41
+11,12,XII Región de Magallanes y la Antártica Chilena,41
+12,11,XI Región Aysén del General Carlos Ibáñez del Campo,41
+13,14,XIV Región de los Ríos,41
+14,10,X Región de los Lagos,41
+15,15,XV Región de Arica y Parinacota,41

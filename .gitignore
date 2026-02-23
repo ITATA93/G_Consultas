@@ -1,0 +1,194 @@
+# Gitignore para Proyecto TrakCare/ALMA
+# Protege credenciales y archivos sensibles
+
+# =============================================================================
+# CREDENCIALES (MUY IMPORTANTE - NUNCA SUBIR)
+# =============================================================================
+credentials/
+*.txt
+!datos_alma/config/keys.txt
+!datos_alma/docs/*.txt
+*.env
+.env
+.env.local
+*.key
+*.pem
+*.p12
+*.pfx
+
+# =============================================================================
+# ARCHIVOS DE CONFIGURACIÓN SENSIBLES
+# =============================================================================
+**/dbvis.xml
+**/*password*
+**/*credential*
+**/*secret*
+
+# =============================================================================
+# DATOS PERSONALES / PACIENTES
+# =============================================================================
+**/pacientes/**
+**/datos_personales/**
+*.xlsx
+*.xls
+*.csv
+!datos_alma/data/raw/**/*.csv
+!datos_alma/scripts/**/*.csv
+!Consultas_live/diccionarios_csv/*.csv
+
+# =============================================================================
+# LOGS Y TEMPORALES
+# =============================================================================
+logs/
+*.log
+*.tmp
+*.temp
+*.cache
+*.bak
+*.swp
+*.swo
+*~
+
+# =============================================================================
+# BACKUPS DE BASE DE DATOS
+# =============================================================================
+*.sql.bak
+*.dump
+*.backup
+backups/
+*.mdb
+*.accdb
+
+# =============================================================================
+# ARCHIVOS HISTORICOS Y BACKUPS GRANDES
+# =============================================================================
+_archivo/
+herramientas/*_result.txt
+herramientas/*_output.txt
+
+# =============================================================================
+# SOFTWARE Y BINARIOS
+# =============================================================================
+DbVisualizer_Pro_10.0.20_x64_crackzsoft.com/
+*.rar
+*.zip
+*.tar.gz
+*.7z
+*.jar
+!datos_alma/**/*.jar
+
+# =============================================================================
+# ARCHIVOS DE SISTEMA
+# =============================================================================
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+nul
+
+# =============================================================================
+# IDEs Y EDITORES
+# =============================================================================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# =============================================================================
+# PYTHON
+# =============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+env/
+ENV/
+.pytest_cache/
+
+# =============================================================================
+# NODE/JAVASCRIPT
+# =============================================================================
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# =============================================================================
+# ARCHIVOS GRANDES / GENERADOS
+# =============================================================================
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.iso
+*.dmg
+
+# =============================================================================
+# EXCEPCIONES (PERMITIDOS)
+# =============================================================================
+!README.md
+!docs/**/*.md
+!.gitignore
+!.clauderc
+!.claude/**/*.agent
+
+# --- Added by GEN_OS migration ---
+# Environment
+*.pyc
+.env.*.local
+.venv/
+.venv_temp/
+# IDEs
+# Agent logs (don't version temporary logs)
+.gemini/agents/logs/
+.gemini/agents/locks/
+.gemini/brain/daily/
+# Builds
+.next/
+out/
+# OS
+# Docker
+docker-compose.override.yml
+# Secrets
+secrets/
+# Caches
+.mypy_cache/
+.ruff_cache/
+# Testing
+coverage/
+.coverage
+htmlcov/
+.nyc_output/
+# Logs
+# Knowledge Vault
+*.db
+*.sqlite
+data/knowledge_vault.db
+data/knowledge_repo/
+# Team context (temporary, generated)
+.subagents/_team_context.md
+# Agent config sync (encrypted archives — NEVER commit)
+data/secure/
+scripts/setup/agent_config_sync.py
+scripts/setup/_pack_list.txt
+scripts/setup/_unpack_temp/

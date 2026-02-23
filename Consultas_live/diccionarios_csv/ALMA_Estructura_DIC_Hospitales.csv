@@ -1,0 +1,182 @@
+ID,Codigo,Descripcion,FechaExtraccion
+1,MH1,Main Hospital 1,2026-01-31 18:05:39.917000
+2,105102,Hospital Dr. Antonio Tirado Lanas (Ovalle),2026-01-31 18:05:39.920000
+3,105100,Hospital San Juan de Dios (La Serena),2026-01-31 18:05:39.923000
+4,105101,Hospital San Pablo (Coquimbo),2026-01-31 18:05:39.923000
+5,105103,Hospital Dr. Humberto Elorza Cortés (Illapel),2026-01-31 18:05:39.927000
+6,105104,Hospital de Salamanca,2026-01-31 18:05:39.930000
+7,105105,Hospital San Juan de Dios (Combarbalá),2026-01-31 18:05:39.930000
+8,105106,Hospital Dr. José Arraño (Andacollo),2026-01-31 18:05:39.933000
+9,105107,Hospital San Juan de Dios (Vicuña),2026-01-31 18:05:39.937000
+10,105108,Hospital San Pedro (Los Vilos),2026-01-31 18:05:39.940000
+11,MAPADER,Mapa de Derivación,2026-01-31 18:05:39.943000
+21,05-200,Centro Regulador SAMU,2026-01-31 18:05:39.947000
+22,05-203,Base SAMU La Serena,2026-01-31 18:05:39.950000
+23,05-204,Base SAMU Coquimbo,2026-01-31 18:05:39.950000
+24,05-208,Base SAMU Ovalle,2026-01-31 18:05:39.953000
+25,05-210,Base SAMU Illapel,2026-01-31 18:05:39.957000
+26,105300,Centro de Salud Familiar Cardenal Caro,2026-01-31 18:05:39.957000
+27,105301,Consultorio Las Compañías,2026-01-31 18:05:39.960000
+28,105302,Consultorio Pedro Aguirre Cerda,2026-01-31 18:05:39.963000
+29,105303,Centro de Salud Familiar San Juan,2026-01-31 18:05:39.963000
+30,105304,Centro de Salud Familiar Santa Cecilia,2026-01-31 18:05:39.970000
+31,105305,Centro de Salud Familiar Tierras Blancas,2026-01-31 18:05:39.970000
+32,105306,Consultorio Paihuano,2026-01-31 18:05:39.973000
+33,105307,Consultorio Monte Patria,2026-01-31 18:05:39.977000
+34,105308,Centro de Salud Familiar Punitaqui,2026-01-31 18:05:39.980000
+35,105309,Consultorio Canela,2026-01-31 18:05:39.983000
+36,105310,Centro de Salud Familiar Rio Hurtado,2026-01-31 18:05:39.983000
+37,105311,Centro de Salud Familiar Chañaral Alto,2026-01-31 18:05:39.990000
+38,105312,Centro de Salud Familiar Carén,2026-01-31 18:05:39.990000
+39,105313,Consultorio Emilio Schaffhauser,2026-01-31 18:05:39.993000
+40,105314,Consultorio La Higuera,2026-01-31 18:05:39.997000
+41,105315,Centro de Salud Familiar Cerrillos de Tamaya,2026-01-31 18:05:40
+42,105317,Centro de Salud Familiar Jorge Jordán Domic,2026-01-31 18:05:40.003000
+43,105318,Centro de Salud Familiar El Palqui,2026-01-31 18:05:40.010000
+44,105319,Centro de Salud Familiar Cardenal Raúl Silva Henríquez de La Serena,2026-01-31 18:05:40.010000
+45,105321,Consultorio Tongoy,2026-01-31 18:05:40.013000
+46,105322,Centro de Salud Familiar Marcos Macuada,2026-01-31 18:05:40.017000
+47,105323,Centro de Salud Dr. Sergio Aguilar Delgado,2026-01-31 18:05:40.017000
+48,105324,Centro de Salud Familiar Sotaqui,2026-01-31 18:05:40.020000
+49,105400,Posta de Salud Rural Algarrobito,2026-01-31 18:05:40.023000
+50,105401,Posta de Salud Rural Las Rojas,2026-01-31 18:05:40.023000
+51,105402,Posta de Salud Rural El Romero,2026-01-31 18:05:40.027000
+52,105404,Posta de Salud Rural El Tangue,2026-01-31 18:05:40.030000
+53,105405,Posta de Salud Rural Guanaqueros,2026-01-31 18:05:40.030000
+54,105406,Posta de Salud Rural Pan de Azúcar,2026-01-31 18:05:40.033000
+55,105407,Posta de Salud Rural Tambillo,2026-01-31 18:05:40.037000
+56,105409,Posta de Salud Rural El Chañar,2026-01-31 18:05:40.040000
+57,105410,Posta de Salud Rural Hurtado,2026-01-31 18:05:40.040000
+58,105411,Posta de Salud Rural Las Breas (Río Hurtado),2026-01-31 18:05:40.043000
+59,105413,Posta de Salud Rural Samo Alto,2026-01-31 18:05:40.043000
+60,105414,Posta de Salud Rural Serón,2026-01-31 18:05:40.047000
+61,105415,Posta de Salud Rural Barraza,2026-01-31 18:05:40.050000
+62,105416,Posta de Salud Rural Camarico (Ovalle),2026-01-31 18:05:40.050000
+63,105417,Posta de Salud Rural Alcones Bajo,2026-01-31 18:05:40.050000
+64,105419,Posta de Salud Rural Las Sossas,2026-01-31 18:05:40.053000
+65,105420,Posta de Salud Rural Limarí,2026-01-31 18:05:40.057000
+66,105422,Posta de Salud Rural Hornillos,2026-01-31 18:05:40.060000
+67,105425,Posta de Salud Rural Chilecito,2026-01-31 18:05:40.060000
+68,105427,Posta de Salud Rural Hacienda Valdivia,2026-01-31 18:05:40.063000
+69,105428,Posta de Salud Rural Huatulame,2026-01-31 18:05:40.067000
+70,105430,Posta de Salud Rural Mialqui,2026-01-31 18:05:40.070000
+71,105431,Posta de Salud Rural Pedregal,2026-01-31 18:05:40.070000
+72,105432,Posta de Salud Rural Rapel (Monte Patria),2026-01-31 18:05:40.080000
+73,105433,Posta de Salud Rural San Lorenzo (Combarbalá),2026-01-31 18:05:40.083000
+74,105434,Posta de Salud Rural San Marcos (Combarbalá),2026-01-31 18:05:40.090000
+75,105435,Posta de Salud Rural Tulahuén,2026-01-31 18:05:40.093000
+76,105436,Posta de Salud Rural El Maitén,2026-01-31 18:05:40.097000
+77,105437,Posta de Salud Rural Chalinga,2026-01-31 18:05:40.100000
+78,105439,Posta de Salud Rural Cerro Blanco,2026-01-31 18:05:40.103000
+79,105440,Posta de Salud Rural Divisadero,2026-01-31 18:05:40.103000
+80,105441,Posta de Salud Rural Manquehua,2026-01-31 18:05:40.107000
+81,105442,Posta de Salud Rural San Pedro de Quiles,2026-01-31 18:05:40.110000
+82,105443,Posta de Salud Rural Cárcamo,2026-01-31 18:05:40.113000
+83,105444,Posta de Salud Rural Huintil,2026-01-31 18:05:40.117000
+84,105445,Posta de Salud Rural Limáhuida,2026-01-31 18:05:40.120000
+85,105446,Posta de Salud Rural Matancilla,2026-01-31 18:05:40.120000
+86,105447,Posta de Salud Rural Peralillo Illapel,2026-01-31 18:05:40.123000
+87,105448,Posta de Salud Rural Santa Virginia,2026-01-31 18:05:40.127000
+88,105449,Posta de Salud Rural Tunga Norte,2026-01-31 18:05:40.130000
+89,105450,Posta de Salud Rural Mincha Norte,2026-01-31 18:05:40.133000
+90,105451,Posta de Salud Rural Agua Fría,2026-01-31 18:05:40.137000
+91,105452,Posta de Salud Rural Cuncumén,2026-01-31 18:05:40.140000
+92,105453,Posta de Salud Rural Tranquilla,2026-01-31 18:05:40.140000
+93,105454,Posta de Salud Rural Cunlagua,2026-01-31 18:05:40.140000
+94,105456,Posta de Salud Rural Llimpo,2026-01-31 18:05:40.143000
+95,105457,Posta de Salud Rural San Agustín - Salamanca,2026-01-31 18:05:40.147000
+96,105458,Posta de Salud Rural Tahuinco,2026-01-31 18:05:40.150000
+97,105459,Posta de Salud Rural Barrancas,2026-01-31 18:05:40.153000
+98,105460,Centro Comunitario de Salud Familiar Cogotí 18,2026-01-31 18:05:40.157000
+99,105461,Posta de Salud Rural El Huacho,2026-01-31 18:05:40.160000
+100,105462,Posta de Salud Rural El Sauce (Combarbalá),2026-01-31 18:05:40.160000
+101,105463,Posta de Salud Rural Quilitapia,2026-01-31 18:05:40.163000
+102,105464,Posta de Salud Rural La Ligua,2026-01-31 18:05:40.167000
+103,105465,Posta de Salud Rural Ramadilla,2026-01-31 18:05:40.170000
+104,105466,Posta de Salud Rural Valle Hermoso,2026-01-31 18:05:40.170000
+105,105467,Posta de Salud Rural Diaguitas,2026-01-31 18:05:40.173000
+106,105468,Posta de Salud Rural El Molle,2026-01-31 18:05:40.173000
+107,105469,Posta de Salud Rural El Tambo,2026-01-31 18:05:40.177000
+108,105470,Posta de Salud Rural Huanta,2026-01-31 18:05:40.177000
+109,105472,Posta de Salud Rural Rivadavia,2026-01-31 18:05:40.180000
+110,105473,Posta de Salud Rural Talcuna,2026-01-31 18:05:40.183000
+111,105474,Posta de Salud Rural Chapilca,2026-01-31 18:05:40.187000
+112,105475,Posta de Salud Rural Horcón,2026-01-31 18:05:40.187000
+113,105476,Posta de Salud Rural Monte Grande,2026-01-31 18:05:40.190000
+114,105477,Posta de Salud Rural Pisco Elqui,2026-01-31 18:05:40.193000
+115,105478,Posta de Salud Rural Caimanes,2026-01-31 18:05:40.197000
+116,105479,Posta de Salud Rural Guangualí,2026-01-31 18:05:40.210000
+117,105480,Posta de Salud Rural Quilimarí,2026-01-31 18:05:40.210000
+118,105481,Posta de Salud Rural Tilama,2026-01-31 18:05:40.213000
+119,105483,Posta de Salud Rural Los Rulos,2026-01-31 18:05:40.217000
+120,105484,Posta de Salud Rural Huentelauquén,2026-01-31 18:05:40.220000
+121,105485,Posta de Salud Rural Plan De Hornos,2026-01-31 18:05:40.220000
+122,105486,Posta de Salud Rural Tunga Sur,2026-01-31 18:05:40.223000
+123,105487,Posta de Salud Rural Cañas Uno,2026-01-31 18:05:40.227000
+124,105488,Posta de Salud Rural Espíritu Santo,2026-01-31 18:05:40.230000
+125,105489,Posta de Salud Rural Ramadas de Tulahuén,2026-01-31 18:05:40.230000
+126,105490,Posta de Salud Rural El Durazno(Combarbalá),2026-01-31 18:05:40.240000
+127,105491,Posta de Salud Rural Quelén Bajo,2026-01-31 18:05:40.243000
+128,105492,Posta de Salud Rural Camisa,2026-01-31 18:05:40.247000
+129,105493,Posta de Salud Rural Mincha Sur,2026-01-31 18:05:40.250000
+130,105496,Posta de Salud Rural Pintacura Sur,2026-01-31 18:05:40.250000
+131,105497,Posta de Salud Rural Jabonería,2026-01-31 18:05:40.253000
+132,105498,Posta de Salud Rural Quebrada Linares,2026-01-31 18:05:40.257000
+133,105499,Posta de Salud Rural Lambert,2026-01-31 18:05:40.260000
+134,105500,Posta de Salud Rural Caleta Hornos,2026-01-31 18:05:40.263000
+135,105501,Posta de Salud Rural Arboleda Grande,2026-01-31 18:05:40.267000
+136,105502,Posta de Salud Rural Calingasta,2026-01-31 18:05:40.270000
+137,105503,Posta de Salud Rural Tabaqueros,2026-01-31 18:05:40.273000
+138,105504,Posta de Salud Rural Socavón,2026-01-31 18:05:40.273000
+139,105505,Posta de Salud Rural Los Choros,2026-01-31 18:05:40.277000
+140,105506,Posta de Salud Rural El Trapiche,2026-01-31 18:05:40.280000
+141,105507,Posta de Salud Rural Huamalata,2026-01-31 18:05:40.283000
+142,105508,Posta de Salud Rural El Parral de Quiles,2026-01-31 18:05:40.287000
+143,105700,Centro Comunitario de Salud Familiar Villa el Indio,2026-01-31 18:05:40.290000
+144,105701,Centro Comunitario de Salud Familiar Villa Alemania,2026-01-31 18:05:40.290000
+145,105705,Centro Comunitario de Salud Familiar El Alba,2026-01-31 18:05:40.300000
+146,105722,Centro Comunitario de Salud Familiar San José de la Dehesa,2026-01-31 18:05:40.300000
+147,105801,SAPU-Las Compañías,2026-01-31 18:05:40.303000
+148,105802,SAPU-Pedro Aguirre Cerda,2026-01-31 18:05:40.307000
+149,105804,SAPU-Santa Cecilia,2026-01-31 18:05:40.310000
+150,105805,SAPU-Tierras Blancas,2026-01-31 18:05:40.310000
+151,105809,SAPU-Canela,2026-01-31 18:05:40.313000
+152,105819,SAPU-Raúl Silva Henríquez de La Serena,2026-01-31 18:05:40.320000
+153,105823,SAPU-Dr.Sergio Aguilar,2026-01-31 18:05:40.323000
+154,15-482,Posta Rural-Canela Alta,2026-01-31 18:05:40.323000
+155,05-320,Consultorio San Pablo Coquimbo,2026-01-31 18:05:40.330000
+156,105471,Posta de Salud Rural Peralillo Vicuña,2026-01-31 18:05:40.337000
+157,105482,Posta de Salud Rural Canela Alta,2026-01-31 18:05:40.343000
+158,105325,CESFAM - Juan Pablo Segundo,2026-01-31 18:05:40.343000
+159,105702,Centro Comunitario de Salud Familiar Villa Lambert,2026-01-31 18:05:40.347000
+160,05-826,CES Sotaqui,2026-01-31 18:05:40.350000
+161,105723,Centro Comunitario de Salud Familiar Limari,2026-01-31 18:05:40.353000
+162,105326,Centro de Salud Familiar Villa San Rafael de Rozas,2026-01-31 18:05:40.357000
+163,05-999,OTRO,2026-01-31 18:05:40.367000
+164,05-900,Corporación Municipal Gabriel González Videla,2026-01-31 18:05:40.370000
+165,05-901,Corporación Municipal Monte Patria,2026-01-31 18:05:40.370000
+166,TCECON,TCE CONSULTORIO,2026-01-31 18:05:40.373000
+167,TCEBASE,TCE HOSPITAL BASE,2026-01-31 18:05:40.377000
+168,TCECES,TCE CESFAM,2026-01-31 18:05:40.380000
+169,105511,Posta Los Cóndores,2026-01-31 18:05:40.390000
+170,105510,Posta de Salud Rural Recoleta,2026-01-31 18:05:40.420000
+171,105509,Posta de Salud Rural Gualliguaica,2026-01-31 18:05:40.423000
+172,105010,Servicio de Salud Coquimbo,2026-01-31 18:05:40.427000
+173,200258,Centro Comunitario de Salud Familiar Los Copihues,2026-01-31 18:05:40.430000
+174,200366,Centro de Salud Familiar Urbano de Illapel,2026-01-31 18:05:40.433000
+175,200402,CECOSF ARCOS DE PINAMAR,2026-01-31 18:05:40.437000
+176,200367,Centro Comunitario de Salud Familiar Colonia Limarí,2026-01-31 18:05:40.440000
+177,200494,Centro de Salud Familiar El Sauce,2026-01-31 18:05:40.440000
+178,200499,Centro de Salud Familiar Pan de azucar,2026-01-31 18:05:40.443000
+179,200538,Centro de Salud Familiar San Isidro Calingasta,2026-01-31 18:05:40.447000
+180,200569,Centro de Salud Familiar Fray Jorge,2026-01-31 18:05:40.450000
+181,200556,Hospital Digital,2026-01-31 18:05:40.453000
+182,200607,Centro de Salud Familiar Lila Cortés Godoy,2026-01-31 18:05:40.460000
+183,200612,Instituto Teletón Coquimbo,2026-01-31 18:05:40.460000
+184,105455,Centro de Salud Familiar Valle Alto,2026-01-31 18:05:40.463000
+185,201326,COSAM Las Compañías,2026-01-31 18:05:40.467000
+186,201324,CESAM San Juan Punta Mira,2026-01-31 18:05:40.470000
+187,201325,CESAM Limarí,2026-01-31 18:05:40.470000
+188,105600,COSAM Tierras Blancas (CESAM),2026-01-31 18:05:40.473000
+189,201323,CESAM Centro,2026-01-31 18:05:40.473000
+190,201327,CESAM Illapel,2026-01-31 18:05:40.477000

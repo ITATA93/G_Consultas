@@ -1,0 +1,44 @@
+ID,Codigo,Descripcion
+1,SBRA,Sobrina
+2,CUNA,Cuñada
+3,PDRA,Madrastra
+4,SGRO,Suegro
+5,SGRA,Suegra
+6,PDRO,Padrastro
+7,NIEA,Nieta
+8,CUNO,Cuñado
+9,NIEO,Nieto
+10,FD,Familiar Directo
+11,NING,Ninguno
+12,OTR,Otras Relaciones
+13,ABUA,Abuela
+14,CUIDR,Cuidador
+15,CUIDA,Cuidadora
+16,ABUO,Abuelo
+17,PERCU,Persona Cuidada
+18,CONO,Conviviente Hombre
+19,NURA,Nuera
+20,PUPLA,Pupila
+21,HNRA,Hermanastra
+22,HNA,Hermana
+23,YRNO,Yerno
+24,MAD,Madre
+25,HNRO,Hermanastro
+26,HNO,Hermano
+27,PAD,Padre
+28,PRMA,Prima
+29,PUPLO,Pupilo
+30,cony,Cónyuge
+31,CONA,Conviviente Mujer
+32,TUTR,Tutor
+33,PRMO,Primo
+34,HJA,Hija
+35,TUTA,Tutora
+36,ESPO,Esposo
+37,HJO,Hijo
+38,TIO,Tio
+39,HJTA,Hijastra
+40,ESPA,Esposa
+41,TIA,Tía
+42,HJTO,Hijastro
+43,SBRO,Sobrino

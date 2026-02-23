@@ -1,0 +1,36 @@
+# SQLUser.PAC_PregnConsultDegree
+
+**Schema:** SQLUser
+**Columnas:** 19
+**Actualizado:** 2026-01-30 15:29:54
+
+## Utilidad
+
+**Configuración de Admisiones**. Parámetros y tipos para módulo de admisión.
+
+## Columnas
+
+| Columna | Tipo | PK | FK | Nullable | Descripcion |
+|---------|------|----|----|----------|-------------|
+| CONDEG_RowId | bigint | PK |  | NO | - |
+| CONDEG_Code | varchar |  |  | NO | Degree Code |
+| CONDEG_CodeTableTags | varchar |  |  | SI | List of code table Tags |
+| CONDEG_CreatedDate | date |  |  | SI | Created Date |
+| CONDEG_CreatedTime | time |  |  | SI | Created Time |
+| CONDEG_CreatedUser_DR | bigint |  | FK | SI | Created User |
+| CONDEG_DateFrom | date |  |  | SI | Date From |
+| CONDEG_DateTo | date |  |  | SI | Date To |
+| CONDEG_Desc | varchar |  |  | NO | Description |
+| CONDEG_Owner | varchar |  |  | SI | Owner |
+| CONDEG_UpdatedDate | date |  |  | SI | Updated Date |
+| CONDEG_UpdatedTime | time |  |  | SI | Updated Time |
+| CONDEG_UpdatedUser_DR | bigint |  | FK | SI | Updated User |
+| ChildQ05DR | - |  |  | SI | Child Reference: Interim / change of staff check |
+| Q06Q1 | - |  |  | SI | Procedure |
+| Q06Q2 | - |  |  | SI | Item |
+| Q06Q3 | - |  |  | SI | Other |
+| Q06Q4 | - |  |  | SI | Count |
+| QUESParRefDR | - |  |  | SI | Parent Reference |
+
+---
+*Generado: 2026-01-30 16:46 | Diccionario v1.0.0 | Sync: 2026-01-30 15:32:03*

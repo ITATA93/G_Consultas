@@ -1,0 +1,17 @@
+ID,Codigo,Descripcion
+1,DIS,Indicaciones al  Alta
+2,EP,Receta Externa
+3,NORM,Normal
+4,OM,Medicación Propia
+5,ONE,Solo Uno
+6,PRN,SOS
+7,STAT,Inmediata/Alta
+8,S,xA Permanencia
+9,U,ONCOLOGICA
+10,CP,Carro de Paro
+11,AC,PNAC
+12,B,Before Next Appointment
+13,E,Emergencia /ASAP
+14,PreMed,Premedication
+15,RPT,Leve
+16,SN,Receta Transcrita

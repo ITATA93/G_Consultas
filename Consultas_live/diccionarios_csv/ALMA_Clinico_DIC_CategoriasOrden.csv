@@ -1,0 +1,93 @@
+ID,Codigo,Descripcion
+1,01,Atencion Abierta
+2,02,Atencion Cerrada
+3,03,Exámenes De Laboratorio
+4,04,Imagenologia
+5,05,Medicina Nuclear Y Radioterapia
+6,06,Kinesiologia Y Fisioterapia
+7,08,Anatomia Patologica
+8,09,Psiquiatria Y Salud Mental
+9,10,Endocrinologia
+10,11,Neurologia Y Neurocirugia
+11,12,Cirugia Oftalmologica
+12,13,Cirugia Otorrinolaringologica
+13,14,Cirugia De Cabeza Y Cuello
+14,15,Cirugia Plastica Y Reparadora
+15,16,Dermatologia Y Tegumentos
+16,17,Cardiologia
+17,18,Gastroenterologia
+18,19,Urologia Y Nefrologia
+19,20,Ginecologia Y Obstetricia
+20,21,Traumatologia
+21,22,Anestesia
+22,23,Protesis
+23,24,"Rescates, Traslados Y Rondas Rurales"
+24,25,Pago Asociado A Diagnostico (Pad)
+25,26,"Atenciones Integrales, Otros Profesionales"
+26,27,Atencion Odontologica
+27,28,Pago Asociado Emergencia
+28,30,"Grupo De Prestaciones: Lentes, Audífonos, Pnda Y Tbc."
+29,40,Rmc Prestaciones Generales
+30,41,Rmc Saneamiento Básico
+31,42,Rmc Control De Alimentos
+32,43,Rmc ( So ) Pago Por Prestaciones Salud Ocupacional
+33,44,Zoonosis
+34,45,Contaminacion Ambiental
+35,46,Programa De Vigilancia De Calidad Del Aire
+36,47,Prestaciones De Laboratorio
+37,PS,Programas De Salud
+38,67,Cuidados De Enfermeria
+39,48,PPV
+40,31,Actividades Del Rem
+41,50,Telemedicina
+42,TCE200,Implantes
+43,100,Insumos
+44,35,Farmacos
+45,IQ,Intervenciones Quirúrgicas
+46,33,ALIMENTOS
+47,38,Otras Actividades Secundarias
+48,36,Farmacos Restringidos
+49,29,"TRATAMIENTOS INTEGRALES DE BRAQUITERAPIA, RADIOTERAPIA Y QUIMIOTERAPIA"
+50,32,Vacunas
+51,TCEINTER,Interconsultas Internas
+52,SEE,Solicitud Estudio Externo
+53,51,Indicaciones Generales
+54,D,Nutrición
+55,APS,ACTIVIDADES DE APS
+56,37,Otras Actividades de APS
+57,TCEIAAS,Infecciones intrahospitalarias
+58,PHARM,PHARM
+59,RPEC110,INSTRUMENTOS
+60,TCEPI,Procedimientos Invasivos
+61,90,Procedimientos  Diagnósticos y Terapéuticos
+62,CLP,Clinical Pathways
+63,COM,Community Referrals
+64,CON,Contacts
+65,DTT,Diet
+66,EQU,Equipment
+67,HC,Hourly Charge
+68,INT,Interventions
+69,OPT,Operating Theatre
+70,RCV,Recovery
+71,REV,Reviews
+72,RAD,Radiology
+73,SUN,Sundries
+74,TC.APP,Appointments 
+75,TC.AdmProc,Administrative Procedures
+76,TC.BLD,Blood Products
+77,TC.CON,Consumables
+78,TC.ClncProc,Clinical Procedures
+79,TC.ED,Emergency Procedures
+80,TC.LE,Loan Equipment
+81,TC.MIS,Miscellaneous Charges
+82,TC.NCPO,Nursing Care Plan Orders
+83,TC.PS,Patient Services
+84,TC.PTED,Patient Education
+85,TNSPT,Transport
+86,07,Medicina Transfusional
+87,210,Cirugía de Tórax
+88,531,Fisiatra
+89,3119,Terapeuta Ocupacional
+90,530,Fonoaudiología
+91,532,Psicólogo
+92,31178,Asistente Social

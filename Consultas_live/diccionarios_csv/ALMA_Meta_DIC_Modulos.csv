@@ -1,0 +1,17 @@
+ID,Codigo,Nombre,Descripcion,Orden
+1,01,Pacientes,Datos maestros del paciente,1
+2,02,Episodios,Admisiones y atenciones,2
+3,03,Registro_Clinico,Datos clinicos del episodio,3
+4,04,Ordenes,Ordenes medicas y resultados,4
+5,05,Laboratorio,Examenes de laboratorio,5
+6,06,Cirugia,Cirugias y anestesia,6
+7,07,Citas_Derivaciones,Agendamiento y derivaciones,7
+8,08,Obstetricia,Embarazos y partos,8
+9,09,Facturacion,Cuentas y pagos,9
+10,10,Catalogos_Maestros,"Ubicaciones, prestaciones, medicamentos",10
+11,11,Diccionarios_Demograficos,Codigos demograficos,11
+12,12,Configuracion_Modulos,Tablas de configuracion,12
+13,13,Sistema_Infraestructura,"Usuarios, camas, salas",13
+14,14,Otros_Modulos,"Inventario, DICOM, etc",14
+15,15,Documentos_Adicionales,"Cartas, protocolos, vacunas",15
+16,16,Otros_Schemas,Schemas externos,16

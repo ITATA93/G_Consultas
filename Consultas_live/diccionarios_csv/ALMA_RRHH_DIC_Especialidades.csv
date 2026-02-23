@@ -1,0 +1,132 @@
+ID,Codigo,Descripcion,FechaExtraccion
+1,73003,Alto Riesgo Obstétrico,2026-01-31 18:05:35.627000
+2,72102,Anestesiología Adulto,2026-01-31 18:05:35.630000
+3,72101,Anestesiología Infantil,2026-01-31 18:05:35.633000
+4,71022,Broncopulmonar Adulto,2026-01-31 18:05:35.633000
+5,71021,Broncopulmonar Infantill,2026-01-31 18:05:35.637000
+6,72092,Cardiocirugía Adulto,2026-01-31 18:05:35.640000
+7,72091,Cardiocirugía Infantil,2026-01-31 18:05:35.643000
+8,71032,Cardiología Adulto,2026-01-31 18:05:35.647000
+9,71031,Cardiología Infantil,2026-01-31 18:05:35.647000
+10,72012,Cirugía Abdominal Adulto,2026-01-31 18:05:35.650000
+11,72011,Cirugía Abdominal Infantil,2026-01-31 18:05:35.650000
+12,72002,Cirugía Adulto,2026-01-31 18:05:35.653000
+13,90070,Cirugía Bucal,2026-01-31 18:05:35.657000
+14,72022	,Cirugía de Mamas,2026-01-31 18:05:35.660000
+15,72001,Cirugía Infantil,2026-01-31 18:05:35.660000
+16,72032,Cirugía Maxilo Facial Adulto,2026-01-31 18:05:35.667000
+17,72031,Cirugía Maxilo Facial Infantil,2026-01-31 18:05:35.670000
+18,72042,Cirugía Plástica Adulto,2026-01-31 18:05:35.670000
+19,72041,Cirugía Plástica Infantil,2026-01-31 18:05:35.673000
+20,72052,Cirugía Proctológica,2026-01-31 18:05:35.673000
+21,72062,Cirugía Tórax Adulto,2026-01-31 18:05:35.677000
+22,72061,Cirugía Tórax Infantil,2026-01-31 18:05:35.683000
+23,72072,Cirugía Vascular Periférica,2026-01-31 18:05:35.683000
+24,90080,Cirugía Y Traumatología Máxilo Facial,2026-01-31 18:05:35.687000
+25,71112,Dermatología Adulto,2026-01-31 18:05:35.690000
+26,71111,Dermatología Infantil,2026-01-31 18:05:35.690000
+27,71003,Diabetes,2026-01-31 18:05:35.697000
+28,71042,Endocrinología Adulto,2026-01-31 18:05:35.703000
+29,71041,Endocrinología Infantil,2026-01-31 18:05:35.710000
+30,90010,Endodoncia,2026-01-31 18:05:35.710000
+31,71122,Enf. Trasmisión Sexual Adulto,2026-01-31 18:05:35.713000
+32,71121,Enf. Trasmisión Sexual Infantil,2026-01-31 18:05:35.717000
+33,71052,Gastroenterología Adulto,2026-01-31 18:05:35.720000
+34,71051,Gastroenterología Infantil,2026-01-31 18:05:35.723000
+35,71062,Genética Adulto,2026-01-31 18:05:35.727000
+36,71061,Genética Infantil,2026-01-31 18:05:35.727000
+37,71132,Geriatría,2026-01-31 18:05:35.733000
+38,73012,Ginecología Adulto,2026-01-31 18:05:35.737000
+39,73011,Ginecología Infantil,2026-01-31 18:05:35.737000
+40,71072,Hematología Adulto,2026-01-31 18:05:35.740000
+41,71071,Hematología Infantil,2026-01-31 18:05:35.740000
+42,71182,Infectología Adulto,2026-01-31 18:05:35.743000
+43,71181,Infectología Infantil,2026-01-31 18:05:35.747000
+44,71192,Inmunología Adulto,2026-01-31 18:05:35.750000
+45,71191,Inmunología Infantil,2026-01-31 18:05:35.753000
+46,36,Medicina de Urgencia,2026-01-31 18:05:35.757000
+47,79001,Medicina Familiar,2026-01-31 18:05:35.760000
+48,71142,Medicina Física y Rehabilitación Adulto,2026-01-31 18:05:35.763000
+49,71141,Medicina Física y Rehabilitación Infantil,2026-01-31 18:05:35.770000
+50,71002,Medicina Interna,2026-01-31 18:05:35.770000
+51,71082,Nefrología Adulto,2026-01-31 18:05:35.773000
+52,71081,Nefrología Infantil,2026-01-31 18:05:35.773000
+53,71011,Neonatología,2026-01-31 18:05:35.777000
+54,72082,Neurocirugía Adulto,2026-01-31 18:05:35.780000
+55,72081,Neurocirugía Infantil,2026-01-31 18:05:35.783000
+56,71152,Neurología Adulto,2026-01-31 18:05:35.783000
+57,71151,Neurología Infantil,2026-01-31 18:05:35.787000
+58,71092,Nutrición Adulto,2026-01-31 18:05:35.790000
+59,71091,Nutrición Infantil,2026-01-31 18:05:35.793000
+60,73001,Obstetricia,2026-01-31 18:05:35.793000
+61,92000,Odontología Indiferenciado,2026-01-31 18:05:35.797000
+62,91000,Odontopediatría,2026-01-31 18:05:35.800000
+63,74009,Oftalmología,2026-01-31 18:05:35.803000
+64,71162,Oncología Adulto,2026-01-31 18:05:35.807000
+65,71161,Oncología Infantil,2026-01-31 18:05:35.810000
+66,90020,Operatoria,2026-01-31 18:05:35.810000
+67,90030,Ortodoncia,2026-01-31 18:05:35.813000
+68,75009,Otorrinolaringología,2026-01-31 18:05:35.820000
+69,92999,Otros Profesionales,2026-01-31 18:05:35.820000
+70,71001,Pediatría,2026-01-31 18:05:35.823000
+71,90040,Periodoncia,2026-01-31 18:05:35.827000
+72,71123,Programa VIH,2026-01-31 18:05:35.830000
+73,71172,Psiquiatría Adulto,2026-01-31 18:05:35.833000
+74,71171,Psiquiatría Infantil,2026-01-31 18:05:35.833000
+75,90050,Rehabilitación Prótesis Fija,2026-01-31 18:05:35.837000
+76,90060,Rehabilitación Prótesis Removible,2026-01-31 18:05:35.840000
+77,71102,Reumatología,2026-01-31 18:05:35.843000
+78,76009,Sala Ocupacional,2026-01-31 18:05:35.843000
+79,90090,Transtornos Tempomandibulares y Dolor Orofacia,2026-01-31 18:05:35.850000
+80,77002,Traumatología Adulto,2026-01-31 18:05:35.850000
+81,77001,Traumatología Infantil,2026-01-31 18:05:35.853000
+82,71163,Unidad de Alivio del Dolor y Cuidados Paliativos,2026-01-31 18:05:35.857000
+83,73013,Unidad de Patología Cervical,2026-01-31 18:05:35.857000
+84,73014,Unidad de Patología Mamaria,2026-01-31 18:05:35.860000
+85,78002,Urología Adulto,2026-01-31 18:05:35.860000
+86,78001,Urología Infantil,2026-01-31 18:05:35.863000
+87,01,Anatomía Patológica,2026-01-31 18:05:35.867000
+88,02,Anestesiología,2026-01-31 18:05:35.867000
+89,03,Cardiología,2026-01-31 18:05:35.870000
+90,06,Cirugía Cardiovascular,2026-01-31 18:05:35.873000
+91,05,"Cirugía De Cabeza, Cuello y Maxilofacial",2026-01-31 18:05:35.877000
+92,07,Cirugía De Tórax,2026-01-31 18:05:35.880000
+93,56,Cirugía Digestiva,2026-01-31 18:05:35.880000
+94,04,Cirugía General,2026-01-31 18:05:35.883000
+95,09,Cirugía Pediátrica,2026-01-31 18:05:35.887000
+96,08,Cirugía Plástica Y Reparadora,2026-01-31 18:05:35.890000
+97,11,Coloproctología,2026-01-31 18:05:35.890000
+98,12,Dermatología,2026-01-31 18:05:35.897000
+99,13,Diabetología,2026-01-31 18:05:35.903000
+100,16,Enfermedades Respiratorias Del Adulto (Broncopulmonar),2026-01-31 18:05:35.907000
+101,17,Enfermedades Respiratorias Pediátricas (Broncopulmonar Pediatrico),2026-01-31 18:05:35.910000
+102,20,Genética Clínica,2026-01-31 18:05:35.910000
+103,58,Ginecología,2026-01-31 18:05:35.913000
+104,22,Ginecología Pediátrica y de la Adolescencia,2026-01-31 18:05:35.917000
+105,23,Hematología,2026-01-31 18:05:35.920000
+106,59,Hemato-Oncología Infantil,2026-01-31 18:05:35.923000
+107,24,Imagenología,2026-01-31 18:05:35.923000
+108,09-004,Imagenología Oral Y Maxilofacial,2026-01-31 18:05:35.927000
+109,09-005,Implantología Buco Maxilofacial,2026-01-31 18:05:35.930000
+110,25,Infectología,2026-01-31 18:05:35.937000
+111,26,Inmunología,2026-01-31 18:05:35.940000
+112,27,Laboratorio Clínico,2026-01-31 18:05:35.943000
+113,61,Medicina Familiar del Niño,2026-01-31 18:05:35.947000
+114,31,Medicina Intensiva Adulto,2026-01-31 18:05:35.950000
+115,32,Medicina Intensiva Pediátrica,2026-01-31 18:05:35.950000
+116,33,Medicina Legal,2026-01-31 18:05:35.953000
+117,34,Medicina Materno Infantil,2026-01-31 18:05:35.960000
+118,35,Medicina Nuclear (Excluye Informes),2026-01-31 18:05:35.963000
+119,40,Neurocirugía,2026-01-31 18:05:35.967000
+120,63,Nutriólogo,2026-01-31 18:05:35.970000
+121,43,Obstetricia Y Ginecología,2026-01-31 18:05:35.973000
+122,45,Oncología Médica,2026-01-31 18:05:35.973000
+123,09-008,Ortodoncia Y Ortopedia Dento Máxilo Facial,2026-01-31 18:05:35.977000
+124,09-009,Patología Oral,2026-01-31 18:05:35.980000
+125,49,Psiquiatría Pediátrica Y De La Adolescencia,2026-01-31 18:05:35.983000
+126,50|,Radioterapia Oncológica,2026-01-31 18:05:35.987000
+127,09-011,Rehabilitación Oral,2026-01-31 18:05:35.990000
+128,52,Salud Pública,2026-01-31 18:05:35.993000
+129,09-012,Salud Pública Odontológica,2026-01-31 18:05:36
+130,09-013,Somato-Prótesis,2026-01-31 18:05:36.003000
+131,69,Medico General,2026-01-31 18:05:36.013000

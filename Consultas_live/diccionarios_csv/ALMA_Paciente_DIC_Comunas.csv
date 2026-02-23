@@ -1,0 +1,372 @@
+ID,Codigo,Descripcion,CodigoNacional,RegionID
+1,11201,Aysén,,12
+2,05602,Algarrobo,,9
+3,13502,Alhué,,10
+4,08314,Alto Biobío,,6
+5,03302,Alto del Carmen,,1
+6,01107,Alto Hospicio,,3
+7,10202,Ancud,,14
+8,04103,Andacollo,,4
+9,09201,Angol,,5
+10,02101,Antofagasta,,2
+11,08302,Antuco,,6
+12,12202,Antártica,,11
+13,08202,Arauco,,6
+14,01201,Arica,,15
+15,13402,Buin,,10
+16,08402,Bulnes,,6
+17,05402,Cabildo,,9
+18,12201,Cabo de Hornos (Ex Navarino),,11
+19,08303,Cabrero,,6
+20,02201,Calama,,2
+21,10102,Calbuco,,14
+22,03102,Caldera,,1
+23,05502,Calera,,9
+24,13403,Calera de Tango,,10
+25,05302,Calle Larga,,9
+26,01202,Camarones,,15
+27,01102,Camiña,,3
+28,04202,Canela,,4
+29,09102,Carahue,,5
+30,05603,Cartagena,,9
+31,05102,Casablanca,,9
+32,10201,Castro,,14
+33,05702,Catemu,,9
+34,07201,Cauquenes,,7
+35,08203,Cañete,,6
+36,13102,Cerrillos,,10
+37,13103,Cerro Navia,,10
+38,10401,Chaitén,,14
+39,07202,Chanco,,7
+40,03201,Chañaral,,1
+41,08103,Chiguayante,,6
+42,11401,Chile Chico,,12
+43,08401,Chillán,,6
+44,08406,Chillán Viejo,,6
+45,06303,Chimbarongo,,8
+46,09121,Cholchol,,5
+47,10203,Chonchi,,14
+48,06302,Chépica,,8
+49,11202,Cisnes,,12
+50,08403,Cobquecura,,6
+51,10103,Cochamó,,14
+52,11301,Cochrane,,12
+53,06102,Codegua,,8
+54,08404,Coelemu,,6
+55,11101,Coyhaique,,12
+56,08405,Coihueco,,6
+57,06103,Coinco,,8
+58,07402,Colbún,,7
+59,01103,Colchane,,3
+60,13301,Colina,,10
+61,09202,Collipulli,,5
+62,06104,Coltauco,,8
+63,04302,Combarbalá,,4
+64,08101,Concepción,,6
+65,13104,Conchalí,,10
+66,05103,Concón,,9
+67,07102,Constitución,,7
+68,08204,Contulmo,,6
+69,03101,Copiapó,,1
+70,04102,Coquimbo,,4
+71,08102,Coronel,,6
+72,10502,Corral,,13
+73,09103,Cunco,,5
+74,09203,Curacautín,,5
+75,13503,Curacaví,,10
+76,10204,Curaco de Vélez,,14
+77,08205,Curanilahue,,6
+78,09104,Curarrehue,,5
+79,07103,Curepto,,7
+80,07301,Curicó,,7
+81,10205,Dalcahue,,14
+82,03202,Diego de Almagro,,1
+83,06105,Doñihue,,8
+84,13105,El Bosque,,10
+85,08407,El Carmen,,6
+86,13602,El Monte,,10
+87,05604,El Quisco,,9
+88,05605,El Tabo,,9
+89,07104,Empedrado,,7
+90,09204,Ercilla,,5
+91,13106,Estación Central,,10
+92,08104,Florida,,6
+93,09105,Freire,,5
+94,03303,Freirina,,1
+95,10104,Fresia,,14
+96,10105,Frutillar,,14
+97,10402,Futaleufú,,14
+98,10503,Futrono,,13
+99,09106,Galvarino,,5
+100,01302,General Lagos,,15
+101,09107,Gorbea,,5
+102,06106,Graneros,,8
+103,11203,Guaitecas,,12
+104,05503,Hijuelas,,9
+105,10403,Hualaihué,,14
+106,07302,Hualañe,,7
+107,08112,Hualpén,,6
+108,08105,Hualqui,,6
+109,01104,Huara,,3
+110,03304,Huasco,,1
+111,13107,Huechuraba,,10
+112,04201,Illapel,,4
+113,13108,Independencia,,10
+114,01101,Iquique,,3
+115,13603,Isla de Maipo,,10
+116,05201,Isla de Pacua,,9
+117,05104,Juan Fernández	,,9
+118,13109,La Cisterna,,10
+119,05504,La Cruz,,9
+120,06202,La Estrella,,8
+121,13110,La Florida,,10
+122,10505,Lago Ranco,,13
+123,11102,Lago Verde,,12
+124,13111,La Granja,,10
+125,12102,Laguna Blanca	,,11
+126,04104,La Higuera,,4
+127,08304,Laja,,6
+128,05401,La Ligua,,9
+129,13302,Lampa,,10
+130,10506,Lanco,,13
+131,13112,La Pintana,,10
+132,13113,La Reina,,10
+133,06107,Las Cabras,,8
+134,13114,Las Condes,,10
+135,04101,La Serena,,4
+136,10504,La Unión,,13
+137,09108,Lautaro,,5
+138,08201,Lebu,,6
+139,07303,Licantén,,7
+140,05505,Limache,,9
+141,07401,Linares,,7
+142,06203,Litueche,,8
+143,05703,Llaillay,,9
+144,10107,Llanquihue,,14
+145,13115,Lo Barnechea,,10
+146,13116,Lo Espejo,,10
+147,06304,Lolol,,8
+148,09109,Loncoche,,5
+149,07403,Longaví,,7
+150,09205,Lonquimay,,5
+151,13117,Lo Prado,,10
+152,08206,Los Alamos,,6
+153,05301,Los Andes,,9
+154,08301,Los Angeles,,6
+155,10507,Los Lagos,,13
+156,10106,Los Muermos,,14
+157,09206,Los Sauces,,5
+158,04203,Los Vilos,,4
+159,08106,Lota,,6
+160,09207,Lumaco,,5
+161,06108,Machalí,,8
+162,13118,Macul,,10
+163,13119,Maipú,,10
+164,06109,Malloa,,8
+165,06204,Marchihue,,8
+166,13504,Maria Pinto,,10
+167,10509,Mariquina,,13
+168,02302,María Elena,,2
+169,07105,Maule,,7
+170,10108,Maullín,,14
+171,02102,Mejillones,,2
+172,09110,Melipeuco,,5
+173,13501,Melipilla,,10
+174,07304,Molina,,7
+175,04303,Monte Patria,,4
+176,06110,Mostazal,,8
+177,08305,Mulchén,,6
+178,10508,Máfil,,13
+179,08306,Nacimiento,,6
+180,06305,Nancagua,,8
+181,12401,Natales,,11
+182,06205,Navidad,,8
+183,08307,Negrete,,6
+184,08408,Ninhue,,6
+185,05506,Nogales,,9
+186,09111,Nueva Imperial,,5
+187,11302,O'Higgins,,12
+188,06111,Olivar,,8
+189,02202,Ollagüe,,2
+190,05507,Olmué,,9
+191,10301,Osorno,,14
+192,04301,Ovalle,,4
+193,13604,Padre Hurtado,,10
+194,09112,Padre las Casas,,5
+195,04105,Paiguano,,4
+196,10510,Paillaco,,13
+197,13404,Paine,,10
+198,10404,Palena,,14
+199,06306,Palmilla,,8
+200,10511,Panguipulli,,13
+201,05704,Panquehue,,9
+202,05403,Papudo,,9
+203,06206,Paredones,,8
+204,07404,Parral,,7
+205,13121,Pedro Aguirre Cerda,,10
+206,07106,Pelarco,,7
+207,07203,Pelluhue,,7
+208,08410,Pemuco,,6
+209,07107,Pencahue,,7
+210,08107,Penco,,6
+211,06307,Peralillo,,8
+212,09113,Perquenco,,5
+213,05404,Petorca,,9
+214,06112,Peumo,,8
+215,13605,Peñaflor,,10
+216,13122,Peñalolén,,10
+217,01105,Pica,,3
+218,06113,Pichidegua,,8
+219,06201,Pichilemu,,8
+220,08411,Pinto,,6
+221,13202,Pirque,,10
+222,09114,Pitrufquén,,5
+223,06308,Placilla,,8
+224,08412,Portezuelo,,6
+225,12301,Porvenir,,11
+226,01106,Pozo Almonte,,3
+227,12302,Primavera,,11
+228,13123,Providencia,,10
+229,05105,Puchuncaví,,9
+230,09115,Pucón,,5
+231,13124,Pudahuel,,10
+232,13201,Puente Alto,,10
+233,10101,Puerto Montt,,14
+234,10302,Puerto Octay,,14
+235,10109,Puerto Varas,,14
+236,06309,Pumanque,,8
+237,04304,Punitaqui,,4
+238,12101,Punta Arenas,,11
+239,10206,Puqueldón,,14
+240,10303,Purranque,,14
+241,09208,Purén,,5
+242,05705,Putaendo,,9
+243,01301,Putre,,15
+244,10304,Puyehue,,14
+245,10207,Queilén,,14
+246,10208,Quellón,,14
+247,10209,Quemchi,,14
+248,08308,Quilaco,,6
+249,13125,Quilicura,,10
+250,08309,Quilleco,,6
+251,05501,Quillota,,9
+252,08413,Quillón,,6
+253,05106,Quilpué,,9
+254,1234,Quilpué,,9
+255,10210,Quinchao,,14
+256,06114,Quinta de Tilcoco,,8
+257,13126,Quinta Normal,,10
+258,05107,Quintero,,9
+259,08414,Quirihue,,6
+260,06101,Rancagua,,8
+261,07305,Rauco,,7
+262,13127,Recoleta,,10
+263,09029,Renaico,,5
+264,13128,Renca,,10
+265,06115,Rengo,,8
+266,06116,Requínoa,,8
+267,07405,Retiro,,7
+268,05303,Rinconada,,9
+269,07306,Romeral,,7
+270,08415,Ránquil,,6
+271,10512,Río Bueno,,13
+272,07108,Río Claro,,7
+273,04305,Río Hurtado,,4
+274,11402,Río Ibáñez,,12
+275,10305,Río Negro,,14
+276,12103,Río Verde,,11
+277,09116,Saavedra,,5
+278,07307,Sagrada Familia,,7
+279,04204,Salamanca,,4
+280,05601,San Antonio,,9
+281,13401,San Bernardo,,10
+282,08416,San Carlos,,6
+283,07109,San Clemente,,7
+284,05304,San Esteban,,9
+285,08417,San Fabián,,6
+286,05701,San Felipe,,9
+287,06301,San Fernando,,8
+288,12104,San Gregorio,,11
+289,08418,San Ignacio,,6
+290,07406,San Javier,,7
+291,13129,San Joaquín,,10
+292,13203,San José de Maipo,,10
+293,10306,San Juan de la Costa,,14
+294,13130,San Miguel,,10
+295,08419,San Nicolás,,6
+296,10307,San Pablo,,14
+297,13505,San Pedro,,10
+298,02203,San Pedro de Atacama,,2
+299,08108,San Pedro de la Paz,,6
+300,07110,San Rafael,,7
+301,13131,San Ramón,,10
+302,08310,San Rosendo,,6
+303,08311,Santa Bárbara,,6
+304,06310,Santa Cruz,,8
+305,08109,Santa Juana,,6
+306,05706,Santa María,,9
+307,13101,Santiago,13101,10
+308,13101 1,Santiago Occidente,,10
+309,131012,Santiago Oriente,,10
+310,05606,Santo Domingo,,9
+311,06117,San Vicente,,8
+312,02103,Sierra Gorda,,2
+313,13601,Talagante,,10
+314,07101,Talca,,7
+315,08110,Talcahuano,,6
+316,02104,Taltal,,2
+317,09101,Temuco,,5
+318,07308,Teno,,7
+319,09117,Teodoro Schmidt,,5
+320,03103,Tierra Amarilla,,1
+321,13303,Tiltil,,10
+322,12303,Timaukel,,11
+323,08207,Tirúa,,6
+324,02301,Tocopilla,,2
+325,09118,Toltén,,5
+326,08111,Tomé,,6
+327,12402,Torres del Paine,,11
+328,11303,Tortel,,12
+329,09210,Traiguén,,5
+330,08420,Treguaco,,6
+331,08312,Tucapel,,6
+332,10501,Valdivia,,13
+333,03301,Vallenar,,1
+334,05101,Valparaíso,,9
+335,07309,Vichuquén,,7
+336,09211,Victoria,,5
+337,04106,Vicuña,,4
+338,09119,Vilcún,,5
+339,07407,Villa Alegre,,7
+340,05108,Villa Alemana,,9
+341,09120,Villarrica,,5
+342,13132,Vitacura,,10
+343,05109,Viña del Mar,,9
+344,07408,Yerbas Buenas,,7
+345,08313,Yumbel,,6
+346,08421,Yungay,,6
+347,05405,Zapallar,,9
+348,08409,Ñiquén,,6
+349,13120,Ñuñoa,,10
+350,15101,Arica,01201,15
+351,15102,Camarones,01202,15
+352,15201,Putre,01301,15
+353,15202,General Lagos,01302,15
+354,01401,Pozo Almonte,01106,3
+355,01402,Camiña,01102,3
+356,01403,Colchane,01103,3
+357,01404,Huara,01104,3
+358,01405,Pica,01105,3
+359,09209,Renaico,09029,5
+360,14101,Valdivia,,13
+361,14102,Corral,10502,13
+362,14103,Lanco,10506,13
+363,14104,Los Lagos,10507,13
+364,14105,Máfil,10508,13
+365,14106,Mariquina,10509,13
+366,14107,Paillaco,10510,13
+367,14108,Panguipulli,10511,13
+368,14201,La Unión,10504,13
+369,14202,Futrono,10503,13
+370,14203,Lago Ranco,10505,13
+371,14204,Río Bueno,10512,13

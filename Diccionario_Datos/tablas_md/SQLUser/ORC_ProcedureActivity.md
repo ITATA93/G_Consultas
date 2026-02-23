@@ -1,0 +1,89 @@
+# SQLUser.ORC_ProcedureActivity
+
+**Schema:** SQLUser
+**Columnas:** 72
+**Actualizado:** 2026-01-30 15:29:54
+
+## Utilidad
+
+**Configuración de Órdenes**. Parámetros de órdenes médicas.
+
+## Columnas
+
+| Columna | Tipo | PK | FK | Nullable | Descripcion |
+|---------|------|----|----|----------|-------------|
+| PROCAC_RowId | bigint | PK |  | NO | - |
+| PROCAC_Code | varchar |  |  | NO | Code |
+| PROCAC_CodeTableTags | varchar |  |  | SI | List of code table Tags |
+| PROCAC_CreatedDate | date |  |  | SI | Created Date |
+| PROCAC_CreatedTime | time |  |  | SI | Created Time |
+| PROCAC_CreatedUser_DR | bigint |  | FK | SI | Created User |
+| PROCAC_DateFrom | date |  |  | SI | Date From |
+| PROCAC_DateTo | date |  |  | SI | Date To |
+| PROCAC_Desc | varchar |  |  | NO | Description |
+| PROCAC_Owner | varchar |  |  | SI | Owner |
+| PROCAC_UpdatedDate | date |  |  | SI | Updated Date |
+| PROCAC_UpdatedTime | time |  |  | SI | Updated Time |
+| PROCAC_UpdatedUser_DR | bigint |  | FK | SI | Updated User |
+| Q01 | - |  |  | SI | Part One: Self Reported Falls History |
+| Q02 | - |  |  | SI | How many times did you fall in the last year? |
+| Q03 | - |  |  | SI | Did you injure yourself? |
+| Q04 | - |  |  | SI | How often do you think you are about to fall but m... |
+| Q05 | - |  |  | SI | Part Two: Observations on Gait Pattern |
+| Q06 | - |  |  | SI | Walking speed over 5 metres |
+| Q07 | - |  |  | SI | Gait style |
+| Q08 | - |  |  | SI | Comment |
+| Q09 | - |  |  | SI | Client consent available |
+| Q10 | - |  |  | SI | Referral completed |
+| Q11 | - |  |  | SI | Score |
+| Q12 | - |  |  | SI | Classification |
+| Q13 | - |  |  | SI | 0 - 1 |
+| Q14 | - |  |  | SI | Low Risk |
+| Q15 | - |  |  | SI | >= 2 |
+| Q16 | - |  |  | SI | High Risk |
+| Q17 | - |  |  | SI | The Elderly Fall Screening Test (EFST) was develop... |
+| Q18 | - |  |  | SI | 0 -1: Low Risk |
+| Q19 | - |  |  | SI | >= 2: High Risk |
+| QUESAnaDR | - |  |  | SI | Anaesthesia |
+| QUESAnaOperationDR | - |  |  | SI | Operation |
+| QUESConsultDR | - |  |  | SI | Consult |
+| QUESCopiedComments | - |  |  | SI | Copied Comments |
+| QUESCopiedDate | - |  |  | SI | Copied Date |
+| QUESCopiedEpDR | - |  |  | SI | Copied Episode |
+| QUESCopiedSourceDR | - |  |  | SI | Copied Source DR |
+| QUESCopiedTime | - |  |  | SI | Copied Time |
+| QUESCopiedUserDR | - |  |  | SI | Copied User |
+| QUESCreateDate | - |  |  | SI | Creation Date |
+| QUESCreateTime | - |  |  | SI | Creation Time |
+| QUESCreateUserDR | - |  |  | SI | Creation User |
+| QUESDate | - |  |  | SI | Last Update Date |
+| QUESErrorReasonDR | - |  |  | SI | Error Reason |
+| QUESFHResidentDR | - |  |  | SI | Resident |
+| QUESMRClinicalPathWaysDR | - |  |  | SI | Clinical Pathway |
+| QUESNRCarePlanIssuesDR | - |  |  | SI | Nurse Care Plan Issues |
+| QUESOEOrdExecDR | - |  |  | SI | Order Execution |
+| QUESORPreanaestheticConsultDR | - |  |  | SI | Preanaesthetic Consultation |
+| QUESObsEntryDR | - |  |  | SI | Observation Entry |
+| QUESOperRoomDR | - |  |  | SI | Operating Room |
+| QUESPAAdmDR | - |  |  | SI | Admission |
+| QUESPAAdverseEventDR | - |  |  | SI | Adverse Event |
+| QUESPAPatMasDR | - |  |  | SI | Patient |
+| QUESPAPregnancyDR | - |  |  | SI | Pregnancy |
+| QUESPAWaitingListDR | - |  |  | SI | Waiting List |
+| QUESPathwayItemDR | - |  |  | SI | Pathway Item |
+| QUESPrePostExamOEOrdItemDR | - |  |  | SI | Pre/Post Exam OrdItem |
+| QUESRBAppointmentDR | - |  |  | SI | Appointments |
+| QUESRBApptOutcomeDR | - |  |  | SI | Appointment Outcome |
+| QUESRBApptSlotDR | - |  |  | SI | Appointment Slot |
+| QUESReasonForCorrectionDR | - |  |  | SI | Reason for Correction |
+| QUESSSUserDefWindowDR | - |  |  | SI | Questionnaire |
+| QUESScore | - |  |  | SI | Score |
+| QUESSecondUserDR | - |  |  | SI | Second Signature |
+| QUESStatusDR | - |  |  | SI | Status |
+| QUESTextResultDR | - |  |  | SI | Text Result |
+| QUESTime | - |  |  | SI | Last Update Time |
+| QUESTransactionDR | - |  |  | SI | Transaction |
+| QUESUserDR | - |  |  | SI | Last Update User |
+
+---
+*Generado: 2026-01-30 16:46 | Diccionario v1.0.0 | Sync: 2026-01-30 15:32:03*

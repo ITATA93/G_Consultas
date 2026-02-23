@@ -1,0 +1,15 @@
+ID,Codigo,Descripcion,SeveridadID,EsSensibilidad
+1,13,	Angioedema,,N
+2,1,Aumento de Volumen - Generalizado,,N
+3,2,Aumento de Volumen - Localizado,,N
+4,8,Broncoespasmos,,N
+5,3,Diarrea o Vómito,,N
+6,11,Fiebre,,N
+7,12,Hemorragia,,N
+8,7,Insuficiencia Respiratoria,,N
+9,9,Otra reacción,,N
+10,4,Rash - Generalizado,,N
+11,5,Rash - Localizado,,N
+12,6,Shock Anafiláctico,,N
+13,15,Tos,,N
+14,14,Urticaria,,N

@@ -1,0 +1,22 @@
+ID,Codigo,Descripcion
+1,A,Active
+2,B,Blood Bank
+3,C,Consultation
+4,D,D/C (Discontinued)
+5,DIS,Discharge Order
+6,E,Executed
+7,EM,Emergency Order
+8,EMER,Emergency
+9,H,On Hold
+10,I,Inactive
+11,IP,In Progress
+12,N,Normal
+13,P,Pre-Order
+14,PO,Post-Operation Order
+15,Q,In Queue
+16,R,Routine Order
+17,T,Dental
+18,S,Postponed
+19,U,Unverified
+20,V,Verified
+21,X,Rehab Medicine
