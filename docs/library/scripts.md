@@ -1,7 +1,7 @@
 ---
 title: Script Registry
-version: "1.0"
-last_updated: "2026-02-24"
+version: "1.1"
+last_updated: "2026-02-26"
 ---
 
 # Script Registry
@@ -14,6 +14,8 @@ last_updated: "2026-02-24"
 | `dispatch.sh` | `.subagents/dispatch.sh` | Shell | Auto-registered |
 | `dispatch-team.sh` | `.subagents/dispatch-team.sh` | Shell | Auto-registered |
 | `safe-write.sh` | `.subagents/safe-write.sh` | Shell | Auto-registered |
+| `rpt_consultoria_llamado.py` | `Consultas_live/rpt_consultoria_llamado.py` | Python | Reporte standalone IC llamado ALMA→CSV con filtro temporal 48h |
+| `dic_local.py` | `herramientas/python/dic_local.py` | Python | Motor diccionario local SQLite para resolver catalogos ALMA offline |
 | `search_dict.py` | `_archivo/consultas/search_dict.py` | Python | Auto-registered |
 | `06_crear_schemas_adicionales.py` | `Consultas_live/06_crear_schemas_adicionales.py` | Python | Auto-registered |
 | `08_crear_schemas_restantes.py` | `Consultas_live/08_crear_schemas_restantes.py` | Python | Auto-registered |
@@ -72,6 +74,9 @@ last_updated: "2026-02-24"
 | `db_config.py` | `herramientas/python/db_config.py` | Python | Auto-registered |
 | `decrypt_dbvis.py` | `herramientas/python/decrypt_dbvis.py` | Python | Auto-registered |
 | `validador_consultas.py` | `herramientas/python/validador_consultas.py` | Python | Auto-registered |
+| `crear_schema_consultor_sidra.py` | `scripts/crear_schema_consultor_sidra.py` | Python | DDL: crea schema ALMA_Consultor con 5 tablas + vista V_Resumen_Clinico en SIDRA-TEST |
+| `etl_consultor_alma_sidra.py` | `scripts/etl_consultor_alma_sidra.py` | Python | ETL: extrae IC llamado de ALMA, cruza cirugias/procedimientos 48h, carga SIDRA-TEST |
+| `exportar_catalogos_alma.py` | `scripts/exportar_catalogos_alma.py` | Python | Exporta catalogos ALMA (CT_CareProv, CTLoc, etc.) a SQLite local |
 | `agent_health_check.py` | `scripts/agent_health_check.py` | Python | Auto-registered |
 | `agent_selftest.py` | `scripts/agent_selftest.py` | Python | Auto-registered |
 | `audit_ecosystem.py` | `scripts/audit_ecosystem.py` | Python | Auto-registered |
@@ -92,3 +97,22 @@ last_updated: "2026-02-24"
 | `scan_tasks.py` | `scripts/temp/scan_tasks.py` | Python | Auto-registered |
 | `send_norm_tasks.py` | `scripts/temp/send_norm_tasks.py` | Python | Auto-registered |
 | `template_sync.py` | `scripts/template_sync.py` | Python | Auto-registered |
+| `test_conexion_alma.py` | `tests/test_conexion_alma.py` | Python | Test basico de conexion ALMA/IRIS |
+| `verify_enquiry_contact_ic.py` | `tests/verify_enquiry_contact_ic.py` | Python | Verificacion PA_EnquiryContact para IC |
+| `verify_ordstatus_catalog.py` | `tests/verify_ordstatus_catalog.py` | Python | Resolucion catalogo OEC_OrderStatus |
+| `exportar_catalogos_sesion2.py` | `tests/exportar_catalogos_sesion2.py` | Python | Exporta catalogos estados/metodos IC |
+| `test_queries_consultor.py` | `tests/test_queries_consultor.py` | Python | Test Parte 3 paquete DBA: 8 queries ALMA_Consultor en SIDRA-TEST |
+
+## Research Artifacts (2026-02-26)
+
+| Artifact | Path | Format | Description |
+|----------|------|--------|-------------|
+| Flujo Interconsultas | `docs/research/flujo_interconsultas_alma.md` | Markdown | Investigacion completa del flujo IC en ALMA |
+| IC Internas HOVA | `docs/research/catalogos/interconsultas_internas_hova.csv` | CSV | 44 items catalogo interconsultas internas |
+| Consultorias Llamado | `docs/research/catalogos/consultorias_llamado_hova.csv` | CSV | 13 items consultorias de llamado |
+| Teleconsultas | `docs/research/catalogos/teleconsultas.csv` | CSV | 48 items teleconsultas |
+| Evaluaciones | `docs/research/catalogos/evaluaciones.csv` | CSV | 35 items evaluaciones |
+| Grupos IC | `docs/research/catalogos/grupos_interconsulta.csv` | CSV | 15 grupos receptores interconsulta |
+| Estados Orden | `docs/research/catalogos/estados_orden.csv` | CSV | 13 estados OEC_OrderStatus |
+| Estados Solicitud IC | `docs/research/catalogos/estados_solicitud_ic.csv` | CSV | 3 estados PAC_RequestStatus |
+| Metodos Contacto IC | `docs/research/catalogos/metodos_contacto_ic.csv` | CSV | 3 metodos PAC_ContMethod |

@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "intersystems-iris": "^0.2.2"
+  }
+}
